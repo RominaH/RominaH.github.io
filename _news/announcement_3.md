@@ -12,5 +12,5 @@ Kitty-showing-off constructions!
 
 ---
 
-Information 
+See programme [here](https://rhetoricon.uwaterloo.ca/storage/api/files/events/m7fgrrw20rkdg79/rhetoricon_symposium_programme_zhcp1jtdnq.pdf).
 
