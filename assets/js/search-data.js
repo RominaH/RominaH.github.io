@@ -413,7 +413,7 @@ ninja.data = [{
               window.location.href = "/news/announcement_2/";
             },},{id: "projects-slogan-variation",
           title: 'Slogan variation',
-          description: "with background image",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-multimodal-social-media-constructions",
