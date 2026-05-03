@@ -21,40 +21,40 @@ cv:
   #   postalCode: CA 94115
   #   countryCode: US
 
-  sections:
-    Education:
-      - institution: Simon Fraser University
-        location: Burnaby, BC
-  #       url: https://www.uzh.ch/
-        area: Linguistics
-        studyType: MA
-  #       start_date: 1900
-  #       end_date: 1905
-  #       score: ""
-  #       courses: "Theory of Relativity"
-  #       highlights:
-  #         - Description 1.
-  #         - Description 2.
+  # sections:
+  #   Education:
+  #     - institution: Simon Fraser University
+  #       location: Burnaby, BC
+  # #       url: https://www.uzh.ch/
+  #       area: Linguistics
+  #       studyType: MA
+  # #       start_date: 1900
+  # #       end_date: 1905
+  # #       score: ""
+  # #       courses: "Theory of Relativity"
+  # #       highlights:
+  # #         - Description 1.
+  # #         - Description 2.
 
-      - institution: University of Waterloo
-        location: Waterloo, ON
-        area: Honours English Literature and Rhetoric — Intensive English Specialization (Distinction)
-        studyType: BA
-  #       start_date: 1896
-        end_date: 2024
-  #       highlights:
-  #         - Description 1.
-  #         - Description 2.
+  #     - institution: University of Waterloo
+  #       location: Waterloo, ON
+  #       area: Honours English Literature and Rhetoric — Intensive English Specialization (Distinction)
+  #       studyType: BA
+  # #       start_date: 1896
+  #       end_date: 2024
+  # #       highlights:
+  # #         - Description 1.
+  # #         - Description 2.
 
-       - institution: University of Waterloo
-        location: Waterloo, ON
-        area: Honours Statistics — Pure Mathematics Minor — Co-operative Program (Distinction)
-        studyType: BMath
-  #       start_date: 1896
-        end_date: 2024
-  #       highlights:
-  #         - Description 1.
-  #         - Description 2.
+  #      - institution: University of Waterloo
+  #       location: Waterloo, ON
+  #       area: Honours Statistics — Pure Mathematics Minor — Co-operative Program (Distinction)
+  #       studyType: BMath
+  # #       start_date: 1896
+  #       end_date: 2024
+  # #       highlights:
+  # #         - Description 1.
+  # #         - Description 2.
 
   #   Experience:
   #     - company: Institute for Advanced Study, Princeton University
