@@ -46,10 +46,10 @@ cv:
   # #         - Description 1.
   # #         - Description 2.
 
-  #      - institution: University of Waterloo
-  #       location: Waterloo, ON
-  #       area: Honours Statistics — Pure Mathematics Minor — Co-operative Program (Distinction)
-  #       studyType: BMath
+      - institution: University of Waterloo
+        location: Waterloo, ON
+        area: Honours Statistics — Pure Mathematics Minor — Co-operative Program (Distinction)
+        studyType: BMath
   # #       start_date: 1896
   #       end_date: 2024
   # #       highlights:
