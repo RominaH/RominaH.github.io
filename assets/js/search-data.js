@@ -426,8 +426,8 @@ ninja.data = [{
           description: "Discourse Processing Lab x rhetorical figure annotation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
+            },},{id: "projects-forx",
+          title: 'ForX',
           description: "another without an image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
