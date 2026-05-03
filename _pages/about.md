@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: [rha127 at sfu.ca](mailto:rha127@sfu.ca)
+subtitle: [rha127 at sfu.ca](\mailto:rha127@sfu.ca)
 
 profile:
   align: right
