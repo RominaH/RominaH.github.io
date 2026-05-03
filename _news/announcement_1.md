@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'll be given a talk on rhetorical figures in slogan constructions at the RhetCanada conference at SJU in May!
+I'll be giving a talk on rhetorical figures in slogan constructions at the RhetCanada conference at SJU in May!
