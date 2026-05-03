@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Slogan variation 
-description: with background image
+description: 
 img: 
 importance: 1
 category: ongoing
