@@ -398,8 +398,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-ll-be-given-a-talk-on-rhetorical-figures-in-slogan-constructions-at-the-rhetcanada-conference-at-sju-in-may",
-          title: 'I’ll be given a talk on rhetorical figures in slogan constructions at the...',
+            },},{id: "news-i-ll-be-giving-a-talk-on-rhetorical-figures-in-slogan-constructions-at-the-rhetcanada-conference-at-sju-in-may",
+          title: 'I’ll be giving a talk on rhetorical figures in slogan constructions at the...',
           description: "",
           section: "News",},{id: "news-rhetoricon-symposium",
           title: 'Rhetoricon Symposium!',
