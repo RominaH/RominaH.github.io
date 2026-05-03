@@ -1,9 +1,8 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"CLA":
+  url: https://cla-acl.ca/pdfs/actes-2025/Hashemi-etal-CLA-2025.pdf
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
 
-"Vision":
-  color: "#009f36"
+"RhetCanada":
+  url: https://rhetcanada.org/wp-content/uploads/2024/12/Hashemi-et-al-AB-Before-BA-Construction.pdf
+  color: "#00369f"
