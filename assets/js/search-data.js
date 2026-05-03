@@ -485,6 +485,13 @@ ninja.data = [{
           window.open("https://orcid.org/0009-0005-5331-4649", "_blank");
         },
       },{
+        id: 'social-bluesky',
+        title: 'Bluesky',
+        section: 'Socials',
+        handler: () => {
+          window.open("rominahashemi", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
