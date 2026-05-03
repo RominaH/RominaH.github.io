@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Department of Linguistics,</p>
-    <p>123Simon Fraser University,</p>
+    <p>Simon Fraser University,</p>
     <p>Burnaby, BC, Canada V5A 1S6</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
