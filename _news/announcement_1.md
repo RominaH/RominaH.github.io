@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-05-02 
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I'll be given a talk on rhetorical figures in slogan constructions at the RhetCanada conference at SJU in May!
