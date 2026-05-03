@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "Some fun projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -398,18 +398,18 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-i-ll-be-given-a-talk-on-rhetorical-figures-in-slogan-constructions-at-the-rhetcanada-conference-at-sju-in-may",
+          title: 'I’ll be given a talk on rhetorical figures in slogan constructions at the...',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "projects-slogan-variation",
+            },},{id: "projects-slogan-variation",
           title: 'Slogan variation',
           description: "with background image",
           section: "Projects",handler: () => {
