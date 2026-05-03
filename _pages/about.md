@@ -26,5 +26,5 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I'm a master's student in Linguistics at Simon Fraser University, and I hold a BA in English Literature and Rhetoric and a BMath in Statistics from the University of Waterloo. My research primarily focuses on where Construction Grammar and Rhetoric interects in slogan creation and co-optation, but I also dabble in Multimodal Construction Grammar and Corpus Linguistics. See the projects page to learn more :)
+I'm a master's student in Linguistics at Simon Fraser University, and I hold a BA in English Literature and Rhetoric and a BMath in Statistics from the University of Waterloo. My research primarily focuses on where Construction Grammar and Rhetoric interect in slogan creation and co-optation, but I also dabble in Multimodal Construction Grammar and Corpus Linguistics. See [projects](https://rominah.github.io/projects/) to learn more :)
 
