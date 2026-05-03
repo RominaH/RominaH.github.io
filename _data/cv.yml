@@ -36,10 +36,10 @@ cv:
   # #         - Description 1.
   # #         - Description 2.
 
-  #     - institution: University of Waterloo
-  #       location: Waterloo, ON
-  #       area: Honours English Literature and Rhetoric — Intensive English Specialization (Distinction)
-  #       studyType: BA
+      - institution: University of Waterloo
+        location: Waterloo, ON
+        area: Honours English Literature and Rhetoric — Intensive English Specialization (Distinction)
+        studyType: BA
   # #       start_date: 1896
   #       end_date: 2024
   # #       highlights:
