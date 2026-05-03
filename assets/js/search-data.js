@@ -496,7 +496,7 @@ ninja.data = [{
         title: 'Work',
         section: 'Socials',
         handler: () => {
-          window.open("http://sfu.ca/linguistics/about/people/graduate-students/Hashemi.html", "_blank");
+          window.open("https://sfu.ca/linguistics/about/people/graduate-students/Hashemi.html", "_blank");
         },
       },{
       id: 'light-theme',
