@@ -489,7 +489,14 @@ ninja.data = [{
         title: 'Bluesky',
         section: 'Socials',
         handler: () => {
-          window.open("rominahashemi", "_blank");
+          window.open("https://bsky.app/profile/rominahashemi.bsky.social", "_blank");
+        },
+      },{
+        id: 'social-work',
+        title: 'Work',
+        section: 'Socials',
+        handler: () => {
+          window.open("http://sfu.ca/linguistics/about/people/graduate-students/Hashemi.html", "_blank");
         },
       },{
       id: 'light-theme',
