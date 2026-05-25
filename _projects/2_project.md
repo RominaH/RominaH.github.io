@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Multimodal social media constructions
+title: Cat videos as multimodal social media constructions
 description: How do social media users pay the cat tax?
 img: 
 importance: 2
