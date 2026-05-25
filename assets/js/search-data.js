@@ -416,11 +416,6 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-cat-videos-as-multimodal-social-media-constructions",
-          title: 'Cat videos as multimodal social media constructions',
-          description: "How do social media users pay the cat tax?",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
             },},{id: "projects-smartvey",
           title: 'SmartVey',
           description: "Discourse Processing Lab x rhetorical figure annotation",
