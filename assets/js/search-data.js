@@ -446,6 +446,11 @@ ninja.data = [{
           description: "CDA / verbs",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
+            },},{id: "projects-cat-videos-as-multimodal-social-media-constructions",
+          title: 'Cat videos as multimodal social media constructions',
+          description: "How do social media users pay the cat tax?",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/8_project/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
