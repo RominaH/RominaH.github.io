@@ -19,8 +19,7 @@ category: ongoing
         font-size: 18px;
     }
 </style>
-<p class="normal">normal</p>
-<p class="small-caps">small caps</p>
+
 
 
 
@@ -30,7 +29,7 @@ At the moment, this project encompasses one of two subbranches of an analysis of
 
 Consider the following videos, posted along a verse from the song Life Is Easy by DEMIYAA & Lil Rae:
 
-<blockquote My face a ten, my body tea 
+<blockquote> My face a ten, my body tea 
 Everything on me natural, I'm petite
 And I got some pretty feet </blockquote>
 
@@ -40,7 +39,7 @@ And I got some pretty feet </blockquote>
 
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@sunkittencats/video/7593019386688965918" data-video-id="7593019386688965918" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@sunkittencats" href="https://www.tiktok.com/@sunkittencats?refer=embed">@sunkittencats</a> this song was made for goobert. also i don’t know why scoobert is being a freak at the end <a title="fypppppppppppppppppppppppppppppp" target="_blank" href="https://www.tiktok.com/tag/fypppppppppppppppppppppppppppppp?refer=embed">#fypppppppppppppppppppppppppppppp</a> <a title="doobscoobgoob" target="_blank" href="https://www.tiktok.com/tag/doobscoobgoob?refer=embed">#doobscoobgoob</a> <a title="catsoftiktok" target="_blank" href="https://www.tiktok.com/tag/catsoftiktok?refer=embed">#catsoftiktok</a> <a title="fypシ゚viral" target="_blank" href="https://www.tiktok.com/tag/fyp%E3%82%B7%E3%82%9Aviral?refer=embed">#fypシ゚viral</a> <a target="_blank" title="♬ original sound - lolaᥫ᭡" href="https://www.tiktok.com/music/original-sound-7532659570859100959?refer=embed">♬ original sound - lolaᥫ᭡</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
-As a treat, also watch this video posted to this trend, and think about how the perspective on "I'm petite" serves to contradict the verse:
+As a treat, also watch this video of a pigeon posted to this trend, and think about how the perspective on "I'm petite" serves to contradict the verse:
 
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@balfour.i/video/7598319286398012727" data-video-id="7598319286398012727" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@balfour.i" href="https://www.tiktok.com/@balfour.i?refer=embed">@balfour.i</a> and he got some pretty feet 🧍 <a title="pigeon" target="_blank" href="https://www.tiktok.com/tag/pigeon?refer=embed">#pigeon</a> <a title="bird" target="_blank" href="https://www.tiktok.com/tag/bird?refer=embed">#bird</a> <a title="pet" target="_blank" href="https://www.tiktok.com/tag/pet?refer=embed">#pet</a> <a title="modenapigeon" target="_blank" href="https://www.tiktok.com/tag/modenapigeon?refer=embed">#modenapigeon</a> <a title="funny" target="_blank" href="https://www.tiktok.com/tag/funny?refer=embed">#funny</a> <a target="_blank" title="♬ original sound - balfour.i" href="https://www.tiktok.com/music/original-sound-7598319331210005303?refer=embed">♬ original sound - balfour.i</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
