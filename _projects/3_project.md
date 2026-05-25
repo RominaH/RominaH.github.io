@@ -3,7 +3,7 @@ layout: page
 title: SmartVey
 description: Discourse Processing Lab x rhetorical figure annotation
 img: 
-importance: 3
+importance: 4
 category: ongoing
 ---
 
