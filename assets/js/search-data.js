@@ -441,9 +441,9 @@ ninja.data = [{
           description: "CDA / verbs",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-multimodal-transition-constructions",
-          title: 'Multimodal transition constructions',
-          description: "How do social media users pay the cat tax?",
+            },},{id: "projects-8-project",
+          title: '8_project',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
             },},{id: "projects-cat-videos-as-multimodal-social-media-constructions",
