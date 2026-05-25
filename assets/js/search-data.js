@@ -448,7 +448,7 @@ ninja.data = [{
               window.location.href = "/projects/8_project/";
             },},{id: "projects-cat-videos-as-multimodal-social-media-constructions",
           title: 'Cat videos as multimodal social media constructions',
-          description: "How do social media users pay the cat tax?",
+          description: "How do social media users pay the cat tax? What role do trending templates play in defining the form and meaning of short-form content?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/kitty-constructions/";
             },},{id: "teachings-data-science-fundamentals",
