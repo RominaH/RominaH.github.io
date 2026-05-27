@@ -62,55 +62,41 @@ cv:
         location: Burnaby, BC
         start_date: 2024
         end_date: 
-  #       summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-  #       highlights:
-  #         - Relativity
-  #         - Description 2.
+        summary: 
+          - LING 190: The Science of Speech
+          - LING 220—Introduction to Linguistics
+          - LING 380—Practical Skills in Linguistics
+          - LING 250—Computational Text Analysis 
+          - LING 111—The Wonder of Words
+          
 
-  #     - company: California Institute of Technology
-  #       position: Visiting Professor
-  #       location: Pasadena, California, US
-  #       start_date: 1933
-  #       end_date: 1933
-  #       highlights:
-  #         - Description 1.
-  #         - Description 2.
+      - company: Munich Re
+        position: Data Engineering Co-op
+        location: Toronto, ON
+        start_date: Sept. 2022
+        end_date: Dec. 2022
+        highlights:
+          - Description 1.
+          - Description 2.
 
-  #     - company: Kaiser Wilhelm Institute for Physics
-  #       position: Director
-  #       location: Berlin, Germany
-  #       start_date: 1917
-  #       end_date: 1933
 
-  #     - company: Karl-Ferdinand University
-  #       position: Professor of Theoretical Physics
-  #       location: Prague, Czechoslovakia
-  #       start_date: 1911
-  #       end_date: 1917
+      - company: Rhetoricon Database Project (University of Waterloo)
+        position: Data Engineering Co-op
+        location: Waterloo, ON
+        start_date: 2021
+        end_date: 2022
+        highlights:
+          - Performed a corpus study of the 'A B before B A' construction and collaborated on a research paper, placing the construction at the intersection of rhetoric and construction grammar (received the RhetCanada Undergraduate Student Paper Award in 2022)
+          - Researched rhetorical figures and their synonyms and collaborated on the documentation
+          - Identified the neurocognitive affinities associated with select rhetorical figures
 
-  #     - company: University of Zurich
-  #       position: Associate Professor of Theoretical Physics
-  #       location: Zurich, Switzerland
-  #       start_date: 1909
-  #       end_date: 1911
-
-  #   Volunteer:
-  #     - company: People's Climate March
-  #       position: Lead Organizer
-  #       location: Zurich, Switzerland
-  #       start_date: 2014-04-01
-  #       end_date: 2015-07-01
-  #       summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-  #       highlights:
-  #         - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-  #         - "Men of the year 2014 by Time magazine"
 
     Scholarships and Awards:
       - title: Social Science and Humanities Research Council Master's Scholarship (CGS-M)
   #       authors:
   #         - "Royal Swedish Academy of Sciences"
   #       date: 1921-11-01
-  #       awarder: Royal Swedish Academy of Sciences
+        awarder: Social Science and Humanities Research Council
   #       url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
   #       summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
 
@@ -153,10 +139,10 @@ cv:
   #       keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
   #   Languages:
-  #     - name: German
+  #     - name: English
   #       summary: "Native speaker"
 
-  #     - name: English
+  #     - name: Persian
   #       summary: "Fluent"
 
   #   Interests:
@@ -189,11 +175,3 @@ cv:
   #       start_date: 2018-01-01
   #       end_date: 2018-01-01
 
-  #   References:
-  #     - name: Professor John Doe
-  #       icon: fa-solid fa-laptop
-  #       reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-  #     - name: Professor Jane Smith
-  #       icon: fa-solid fa-thumbtack
-  #       reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
