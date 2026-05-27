@@ -32,9 +32,7 @@ cv:
         end_date: 
   # #       score: ""
   # #       courses: "Theory of Relativity"
-  # #       highlights:
-  # #         - Description 1.
-  # #         - Description 2.
+  # #       Thesis: 
 
       - institution: University of Waterloo
         location: Waterloo, ON
@@ -62,8 +60,8 @@ cv:
         location: Burnaby, BC
         start_date: 2024
         end_date: 
-        summary: 
-          - LING 190: The Science of Speech
+        highlights: 
+          - LING 190—The Science of Speech
           - LING 220—Introduction to Linguistics
           - LING 380—Practical Skills in Linguistics
           - LING 250—Computational Text Analysis 
@@ -71,7 +69,7 @@ cv:
           
 
       - company: Munich Re
-        position: Data Engineering Co-op
+        position: Data Engineering Intern
         location: Toronto, ON
         start_date: Sept. 2022
         end_date: Dec. 2022
@@ -81,17 +79,65 @@ cv:
 
 
       - company: Rhetoricon Database Project (University of Waterloo)
-        position: Data Engineering Co-op
+        position: Research Assistant
         location: Waterloo, ON
-        start_date: 2021
-        end_date: 2022
+        start_date: May 2021
+        end_date: Dec. 2022
         highlights:
           - Performed a corpus study of the 'A B before B A' construction and collaborated on a research paper, placing the construction at the intersection of rhetoric and construction grammar (received the RhetCanada Undergraduate Student Paper Award in 2022)
           - Researched rhetorical figures and their synonyms and collaborated on the documentation
           - Identified the neurocognitive affinities associated with select rhetorical figures
 
+      - company: Miovision
+        position: Data Science Intern
+        location: Kitchener, ON
+        start_date: Jan. 2022
+        end_date: Apr. 2022
+        highlights:
+          - Identified traffic clusters using unsupervised machine learning (DBSCAN) and plotted them using kepler.gl
+          - Created virtual vehicle detectors using Google Earth and geopandas; plotted estimated detector durations; and identified arrivals on green and split failures for 12 intersections in 3 regions, colour-coding the trajectory plots accordingly, using connected car data
+          - Created views, looks, and dashboards in Looker to visualize user commitment and feature engagement for four Miovision platforms
+          - Identified and visualized discrepancies between data loaded into Snowflake through two different pipelines
 
-    Scholarships and Awards:
+
+
+
+
+  
+
+  #     - company: Kaiser Wilhelm Institute for Physics
+  #       position: Director
+  #       location: Berlin, Germany
+  #       start_date: 1917
+  #       end_date: 1933
+
+  #     - company: Karl-Ferdinand University
+  #       position: Professor of Theoretical Physics
+  #       location: Prague, Czechoslovakia
+  #       start_date: 1911
+  #       end_date: 1917
+
+  #     - company: University of Zurich
+  #       position: Associate Professor of Theoretical Physics
+  #       location: Zurich, Switzerland
+  #       start_date: 1909
+  #       end_date: 1911
+
+  #   Volunteer:
+  #     - company: People's Climate March
+  #       position: Lead Organizer
+  #       location: Zurich, Switzerland
+  #       start_date: 2014-04-01
+  #       end_date: 2015-07-01
+  #       summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+  #       highlights:
+  #         - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
+  #         - "Men of the year 2014 by Time magazine"
+
+
+
+
+    Awards:
       - title: Social Science and Humanities Research Council Master's Scholarship (CGS-M)
   #       authors:
   #         - "Royal Swedish Academy of Sciences"
