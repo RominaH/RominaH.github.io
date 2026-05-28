@@ -32,7 +32,7 @@ cv:
         end_date: 
   # #       score: ""
   # #       courses: "Theory of Relativity"
-#        Thesis: Your Slogan, My Choice: Taking a constructionist approach to slogan creation and co-optation
+ #       Thesis: Your Slogan, My Choice\: Taking a constructionist approach to slogan creation and co-optation
 
       - institution: University of Waterloo
         location: Waterloo, ON
@@ -56,24 +56,24 @@ cv:
   # #         - Description 2.
 
     Experience:
-      - company: Simon Fraser University
-        position: Teaching Assistant
-        location: Burnaby, BC
-        start_date: Jan. 2025
-        end_date: 
-        highlights: 
-          - LING 220—Introduction to Linguistics
-          - LING 380—Practical Skills in Linguistics
-          - LING 250—Computational Text Analysis 
-          - LING 111—The Wonder of Words
-          - LING 190—The Science of Speech
+      # - company: Simon Fraser University
+      #   position: Teaching Assistant
+      #   location: Burnaby, BC
+      #   start_date: Jan. 2025
+      #   end_date: 
+      #   highlights: 
+      #     - LING 220—Introduction to Linguistics
+      #     - LING 380—Practical Skills in Linguistics
+      #     - LING 250—Computational Text Analysis 
+      #     - LING 111—The Wonder of Words
+      #     - LING 190—The Science of Speech
      
-      - company: Simon Fraser University
-        position: Research Assistant
-        location: Burnaby, BC
-        start_date: Sept. 2025
-        end_date: 
-        highlights:           
+      # - company: Simon Fraser University
+      #   position: Research Assistant
+      #   location: Burnaby, BC
+      #   start_date: Sept. 2025
+      #   end_date: 
+      #   highlights:           
 
       - company: Munich Re
         position: Data Engineering Intern
@@ -130,21 +130,21 @@ cv:
 
 
     Volunteer:
-      - company: Linguistics Graduate Student Association (Simon Fraser University)
-        position: Graduate Student Society Councillor
-        location: Burnaby, BC
-        start_date: May 2025
-        end_date: 
-  #       summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-  #       highlights:
-  #         - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-  #         - "Men of the year 2014 by Time magazine"
+  #     - company: Linguistics Graduate Student Association (Simon Fraser University)
+  #       position: Graduate Student Society Councillor
+  #       location: Burnaby, BC
+  #       start_date: May 2025
+  #       end_date: 
+  # #       summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+  # #       highlights:
+  # #         - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
+  # #         - "Men of the year 2014 by Time magazine"
 
-      - company: Linguistics Graduate Student Colloquium Committee (Simon Fraser University)
-        position: Treasurer
-        location: Burnaby, BC
-        start_date: Jan. 2025
-        end_date: 
+  #     - company: Linguistics Graduate Student Colloquium Committee (Simon Fraser University)
+  #       position: Treasurer
+  #       location: Burnaby, BC
+  #       start_date: Jan. 2025
+  #       end_date: 
       - company: Iranian Students Association at Waterloo (University of Waterloo)
         position: Treasurer
         location: Waterloo, ON
@@ -172,43 +172,43 @@ cv:
         end_date: Aug. 2019
 
 
-    Scholarships and Awards:
+  #   Scholarships and Awards:
     
-      - title: Travel and Research Award
-        date: 2025
-        awarder: Simon Fraser University
-      - title: Canada Graduate Scholarship—Master's
-        date: 2025
-        awarder: Social Science and Humanities Research Council
-  #       url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-  #       summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-      - title: British Columbia Graduate Scholarship
-        date: 2024
-        awarder: Simon Fraser University
-      - title: Graduate Fellowship
-        date: 2024
-        awarder: Simon Fraser University
-      - title: Outstanding Course Performance Award (ENGL 306G—Critical Discourse Analysis)
-        date: 2024
-        awarder: University of Waterloo
-      - title: Bradley Family Upper-Year Scholarship for Women in Mathematics
-        date: 2023
-        awarder: University of Waterloo
-      - title: DiMarco Undergraduate Scholarship in Computational Rhetoric
-        date: 2023
-        awarder: University of Waterloo
-      - title: Best Undergraduate Student Paper Award
-        date: 2022
-        awarder: RhetCan (the Canadian Society for the Study of Rhetoric)
-      - title: Best Use of External Data at 2022 ASA Datafest
-        date: 2022
-        awarder: University of Waterloo
-      - title: Best Use of External Data at 2021 ASA Datafest
-        date: 2021
-        awarder: University of Waterloo
-      - title: President’s Scholarship
-        date: 2018
-        awarder: University of Waterloo
+  #     - title: Travel and Research Award
+  #       date: 2025
+  #       awarder: Simon Fraser University
+  #     - title: Canada Graduate Scholarship—Master's
+  #       date: 2025
+  #       awarder: Social Science and Humanities Research Council
+  # #       url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+  # #       summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+  #     - title: British Columbia Graduate Scholarship
+  #       date: 2024
+  #       awarder: Simon Fraser University
+  #     - title: Graduate Fellowship
+  #       date: 2024
+  #       awarder: Simon Fraser University
+  #     - title: Outstanding Course Performance Award (ENGL 306G—Critical Discourse Analysis)
+  #       date: 2024
+  #       awarder: University of Waterloo
+  #     - title: Bradley Family Upper-Year Scholarship for Women in Mathematics
+  #       date: 2023
+  #       awarder: University of Waterloo
+  #     - title: DiMarco Undergraduate Scholarship in Computational Rhetoric
+  #       date: 2023
+  #       awarder: University of Waterloo
+  #     - title: Best Undergraduate Student Paper Award
+  #       date: 2022
+  #       awarder: RhetCan (the Canadian Society for the Study of Rhetoric)
+  #     - title: Best Use of External Data at 2022 ASA Datafest
+  #       date: 2022
+  #       awarder: University of Waterloo
+  #     - title: Best Use of External Data at 2021 ASA Datafest
+  #       date: 2021
+  #       awarder: University of Waterloo
+  #     - title: President’s Scholarship
+  #       date: 2018
+  #       awarder: University of Waterloo
 
 
   #   Publications:
