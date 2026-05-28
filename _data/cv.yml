@@ -58,15 +58,21 @@ cv:
       - company: Simon Fraser University
         position: Teaching Assistant
         location: Burnaby, BC
-        start_date: 2024
+        start_date: Jan. 2025
         end_date: 
         highlights: 
-          - LING 190—The Science of Speech
           - LING 220—Introduction to Linguistics
           - LING 380—Practical Skills in Linguistics
           - LING 250—Computational Text Analysis 
           - LING 111—The Wonder of Words
-          
+          - LING 190—The Science of Speech
+     
+      - company: Simon Fraser University
+        position: Research Assistant
+        location: Burnaby, BC
+        start_date: Sept. 2025
+        end_date: 
+        highlights:           
 
       - company: Munich Re
         position: Data Engineering Intern
