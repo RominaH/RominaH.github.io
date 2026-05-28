@@ -1,7 +1,7 @@
 ---
 layout: page
 title: #glowup and #throwback constructions
-description: 
+description: How do sound anchors determine the content and layout of social media artefacts? 
 img: 
 importance: 3
 category: ongoing
