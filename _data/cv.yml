@@ -74,9 +74,8 @@ cv:
         start_date: Sept. 2022
         end_date: Dec. 2022
         highlights:
-          - Description 1.
-          - Description 2.
-
+          - Built Docker images for 12 microservices and deployed them to Kubernetes using Manifest files and Argo CD
+          - Created FastAPI endpoints to route messages to Azure Eventhub and tested them locally using Thunder Client 
 
       - company: Rhetoricon Database Project (University of Waterloo)
         position: Research Assistant
@@ -99,36 +98,36 @@ cv:
           - Created views, looks, and dashboards in Looker to visualize user commitment and feature engagement for four Miovision platforms
           - Identified and visualized discrepancies between data loaded into Snowflake through two different pipelines
 
+      - company: Northbridge
+        position: Data Science Intern
+        location: Toronto, ON
+        start_date: Jan. 2021
+        end_date: Apr. 2021
+        highlights:
+          - Performed exploratory data analysis and built pipelines to clean and preprocess data using custom transformers
+          - Developed an ML model that predicts the probability of an insurance policy submission being bound with an AUC of 0.82 using boosting algorithms and interpreted the model using SHAP values 
+          - Built a Keras Functional model that takes both text and non-text columns as input to classify policy submissions
+          - Reduced the RMSE of a gamma GLM that predicts the severity of an insurance claim by 63% by fine-tuning Google’s Universal Sentence Encoder with loss data using TensorFlow and fitting the GLM using policy description encodings that were created by the fine-tuned model and reduced from 512 to 50 dimensions using PCA                                               
+
+      - company: JANA Corporation
+        position: Data Analyst Intern
+        location: Aurora, ON
+        start_date: Jan. 2020
+        end_date: Aug. 2020
+        highlights:
+          - Implemented Python algorithms for data cleaning and data profiling, including a spell-checker that increases the accuracy of data produced by Google Cloud Vision by 14% and a function that removes EXEC statements from DDLs using regular expressions
+          - Extracted crossing and land use data for gas pipelines using SQL and visualized the data using Power BI and QGIS
+          - Implemented ETLs (Type 2 SCDs) in SQL
+          - Created logical and relational data models and DDLs using Oracle SQL Developer
 
 
 
-
-  
-
-  #     - company: Kaiser Wilhelm Institute for Physics
-  #       position: Director
-  #       location: Berlin, Germany
-  #       start_date: 1917
-  #       end_date: 1933
-
-  #     - company: Karl-Ferdinand University
-  #       position: Professor of Theoretical Physics
-  #       location: Prague, Czechoslovakia
-  #       start_date: 1911
-  #       end_date: 1917
-
-  #     - company: University of Zurich
-  #       position: Associate Professor of Theoretical Physics
-  #       location: Zurich, Switzerland
-  #       start_date: 1909
-  #       end_date: 1911
-
-  #   Volunteer:
-  #     - company: People's Climate March
-  #       position: Lead Organizer
-  #       location: Zurich, Switzerland
-  #       start_date: 2014-04-01
-  #       end_date: 2015-07-01
+    Volunteer:
+      - company: Graduate Student Society (Simon Fraser University)
+        position: Lead Organizer
+        location: Burnaby, BC
+        start_date: 2014-04-01
+        end_date: 2015-07-01
   #       summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
   #       highlights:
   #         - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
