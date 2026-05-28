@@ -55,7 +55,7 @@ cv:
   #         - Description 1.
   #         - Description 2.
 
-    Experience:
+    Work Experience:
       - company: Simon Fraser University
         position: Teaching Assistant
         location: Burnaby, BC
@@ -127,9 +127,7 @@ cv:
           - Implemented ETLs (Type 2 SCDs) in SQL
           - Created logical and relational data models and DDLs using Oracle SQL Developer
 
-
-
-    Volunteer:
+    Academic Extracurriculars:
       - company: Linguistics Graduate Student Association (Simon Fraser University)
         position: Graduate Student Society Councillor
         location: Burnaby, BC
@@ -196,7 +194,7 @@ cv:
       - title: DiMarco Undergraduate Scholarship in Computational Rhetoric
         date: 2023
         awarder: University of Waterloo
-      - title: Best Undergraduate Student Paper Award
+      - title: Best Undergraduate Student Paper Award (with Queenie Chen)
         date: 2022
         awarder: RhetCan (the Canadian Society for the Study of Rhetoric)
       - title: Best Use of External Data at 2022 ASA Datafest
