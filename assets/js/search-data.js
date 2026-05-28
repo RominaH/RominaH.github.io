@@ -441,6 +441,11 @@ ninja.data = [{
           description: "where do slogans come from? where do they go?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/slogans/";
+            },},{id: "projects-so-yeah-particles",
+          title: 'So Yeah particles',
+          description: "Topic-management with “so yeah” in English interaction",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/so-yeah/";
             },},{id: "projects-transition-constructions",
           title: 'Transition Constructions',
           description: "How do sound anchors determine the content and layout of social media artefacts?",
