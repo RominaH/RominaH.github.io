@@ -26,47 +26,47 @@ cv:
       - institution: Simon Fraser University
         location: Burnaby, BC
 # #   #       url: https://www.uzh.ch/
-# #         area: Linguistics
-# #         studyType: MA
-# #         start_date: 2024
-# #         end_date: 
-# #   # #       score: ""
-# #   # #       courses: "Theory of Relativity"
-# # #        Thesis: Your Slogan, My Choice #\: Taking a constructionist approach to slogan creation and co-optation
+        area: Linguistics
+        studyType: MA
+        start_date: 2024
+        end_date: 
+  # #       score: ""
+  # #       courses: "Theory of Relativity"
+#        Thesis: Your Slogan, My Choice #\: Taking a constructionist approach to slogan creation and co-optation
 
-# #       - institution: University of Waterloo
-# #         location: Waterloo, ON
-# #         area: Honours English Literature and Rhetoric — Intensive English Specialization (Distinction)
-# #         studyType: BA
-# #         start_date: 2018
-# #         end_date: 2024
-# #  #       Thesis: "For Woman, Life, Freedom: The BARAYEX Construction as a Discursive Practice in the 2022 Jina Amini Movement" 
-# #   # #       highlights:
-# #   # #         - Description 1.
-# #   # #         - Description 2.
+      - institution: University of Waterloo
+        location: Waterloo, ON
+        area: Honours English Literature and Rhetoric — Intensive English Specialization (Distinction)
+        studyType: BA
+        start_date: 2018
+        end_date: 2024
+ #       Thesis: "For Woman, Life, Freedom: The BARAYEX Construction as a Discursive Practice in the 2022 Jina Amini Movement" 
+  #       highlights:
+  #         - Description 1.
+  #         - Description 2.
 
-# #       - institution: University of Waterloo
-# #         location: Waterloo, ON
-# #         area: Honours Statistics — Pure Mathematics Minor — Co-operative Program (Distinction)
-# #         studyType: BMath
-# #         start_date: 2018
-# #         end_date: 2024
-# #   # #       highlights:
-# #   # #         - Description 1.
-# #   # #         - Description 2.
+      - institution: University of Waterloo
+        location: Waterloo, ON
+        area: Honours Statistics — Pure Mathematics Minor — Co-operative Program (Distinction)
+        studyType: BMath
+        start_date: 2018
+        end_date: 2024
+  #       highlights:
+  #         - Description 1.
+  #         - Description 2.
 
-# #     Experience:
-# #   #     # - company: Simon Fraser University
-# #   #     #   position: Teaching Assistant
-# #   #     #   location: Burnaby, BC
-# #   #     #   start_date: Jan. 2025
-# #   #     #   end_date: 
-# #   #     #   highlights: 
-# #   #     #     - LING 220—Introduction to Linguistics
-# #   #     #     - LING 380—Practical Skills in Linguistics
-# #   #     #     - LING 250—Computational Text Analysis 
-# #   #     #     - LING 111—The Wonder of Words
-# #   #     #     - LING 190—The Science of Speech
+    Experience:
+      - company: Simon Fraser University
+        position: Teaching Assistant
+        location: Burnaby, BC
+        start_date: Jan. 2025
+        end_date: 
+        highlights: 
+          - LING 220—Introduction to Linguistics
+          - LING 380—Practical Skills in Linguistics
+          - LING 250—Computational Text Analysis 
+          - LING 111—The Wonder of Words
+          - LING 190—The Science of Speech
      
 # #   #     # - company: Simon Fraser University
 # #   #     #   position: Research Assistant
