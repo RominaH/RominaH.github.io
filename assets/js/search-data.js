@@ -446,9 +446,9 @@ ninja.data = [{
           description: "Topic-management with “so yeah” in English interaction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/so-yeah/";
-            },},{id: "projects-transition-constructions",
-          title: 'Transition Constructions',
-          description: "How do sound anchors determine the content and layout of social media artefacts?",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/transition-constructions/";
             },},{id: "teachings-data-science-fundamentals",
