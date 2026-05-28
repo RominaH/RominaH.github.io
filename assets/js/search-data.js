@@ -411,11 +411,6 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "projects-slogan-variation",
-          title: 'Slogan variation',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
             },},{id: "projects-smartvey",
           title: 'SmartVey',
           description: "Discourse Processing Lab x rhetorical figure annotation",
@@ -446,6 +441,11 @@ ninja.data = [{
           description: "How do social media users pay the cat tax? What role do trending templates play in defining the form and meaning of short-form content?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/kitty-constructions/";
+            },},{id: "projects-slogan-variation",
+          title: 'Slogan variation',
+          description: "where do slogans come from? where do they go?",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/slogans/";
             },},{id: "projects-transition-constructions",
           title: 'Transition Constructions',
           description: "How do sound anchors determine the content and layout of social media artefacts?",
