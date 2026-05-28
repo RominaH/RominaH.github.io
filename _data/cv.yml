@@ -21,10 +21,10 @@ cv:
 #   #   postalCode: CA 94115
 #   #   countryCode: US
 
-#   sections:
-# #     Education:
-# #       - institution: Simon Fraser University
-# #         location: Burnaby, BC
+  sections:
+    Education:
+      - institution: Simon Fraser University
+        location: Burnaby, BC
 # #   #       url: https://www.uzh.ch/
 # #         area: Linguistics
 # #         studyType: MA
