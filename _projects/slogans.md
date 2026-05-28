@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Slogan variation 
-description: 
+description: where do slogans come from? where do they go?
 img: 
 importance: 1
 category: ongoing
