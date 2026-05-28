@@ -1,6 +1,4 @@
 ---
-<meta name="google-site-verification" content="ebSDplM3BvhwcaOiltnXv4oG-qTi8m20c50RGfCiG-Q" />
-
 layout: about
 title: about
 permalink: /
