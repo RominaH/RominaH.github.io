@@ -411,11 +411,6 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "projects-smartvey",
-          title: 'SmartVey',
-          description: "Discourse Processing Lab x rhetorical figure annotation",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
             },},{id: "projects-forx",
           title: 'ForX',
           description: "The ForX slogan.",
@@ -436,6 +431,11 @@ ninja.data = [{
           description: "CDA / verbs",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
+            },},{id: "projects-smartvey",
+          title: 'SmartVey',
+          description: "Discourse Processing Lab x rhetorical figure annotation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/SmartVey/";
             },},{id: "projects-cat-videos-as-multimodal-social-media-constructions",
           title: 'Cat videos as multimodal social media constructions',
           description: "How do social media users pay the cat tax? What role do trending templates play in defining the form and meaning of short-form content?",
