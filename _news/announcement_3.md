@@ -6,11 +6,11 @@ inline: false
 related_posts: false
 ---
 
-Kitty-showing-off constructions!
+Come by to learn how pet owners show off their kitties!
 
 
 
 ---
 
-See programme [here](https://rhetoricon.uwaterloo.ca/storage/api/files/events/m7fgrrw20rkdg79/rhetoricon_symposium_programme_zhcp1jtdnq.pdf).
+See programme [here](https://rhetoricon.uwaterloo.ca/events/1).
 
