@@ -68,11 +68,11 @@ cv:
           - LING 111—The Wonder of Words
           - LING 190—The Science of Speech
      
-# #   #     # - company: Simon Fraser University
-# #   #     #   position: Research Assistant
-# #   #     #   location: Burnaby, BC
-# #   #     #   start_date: Sept. 2025
-# #   #     #   end_date: 
+      - company: Simon Fraser University
+        position: Research Assistant
+        location: Burnaby, BC
+        start_date: Sept. 2025
+        end_date: 
 # #   #     #   highlights:           
 
       - company: Munich Re
@@ -129,47 +129,47 @@ cv:
 
 
 
-#      Volunteer:
-#   # #     - company: Linguistics Graduate Student Association (Simon Fraser University)
-#   # #       position: Graduate Student Society Councillor
-#   # #       location: Burnaby, BC
-#   # #       start_date: May 2025
-#   # #       end_date: 
-#   # # #       summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-#   # # #       highlights:
-#   # # #         - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-#   # # #         - "Men of the year 2014 by Time magazine"
+    Volunteer:
+      - company: Linguistics Graduate Student Association (Simon Fraser University)
+        position: Graduate Student Society Councillor
+        location: Burnaby, BC
+        start_date: May 2025
+        end_date: 
+  #       summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+  #       highlights:
+  #         - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
+  #         - "Men of the year 2014 by Time magazine"
 
-#   # #     - company: Linguistics Graduate Student Colloquium Committee (Simon Fraser University)
-#   # #       position: Treasurer
-#   # #       location: Burnaby, BC
-#   # #       start_date: Jan. 2025
-#   # #       end_date: 
-#       - company: Iranian Students Association at Waterloo (University of Waterloo)
-#         position: Treasurer
-#         location: Waterloo, ON
-#         start_date: Jan. 2022
-#         end_date: Apr. 2022
-#       - company: Data Science Club (University of Waterloo)
-#         position: VP of External Affairs
-#         location: Waterloo, ON
-#         start_date: Sept. 2020
-#         end_date: Aug. 2021
-#       - company: Data Science Club (University of Waterloo)
-#         position: VP of Design
-#         location: Waterloo, ON
-#         start_date: May 2020
-#         end_date: Aug. 2020
-#       - company: Stats Club (University of Waterloo)
-#         position: Event Coordinator
-#         location: Waterloo, ON
-#         start_date: Sept. 2019
-#         end_date: Dec. 2019
-#       - company: Stats Club (University of Waterloo)
-#         position: Marketing Director
-#         location: Waterloo, ON
-#         start_date: May 2019
-#         end_date: Aug. 2019
+      - company: Linguistics Graduate Student Colloquium Committee (Simon Fraser University)
+        position: Treasurer
+        location: Burnaby, BC
+        start_date: Jan. 2025
+        end_date: 
+      - company: Iranian Students Association at Waterloo (University of Waterloo)
+        position: Treasurer
+        location: Waterloo, ON
+        start_date: Jan. 2022
+        end_date: Apr. 2022
+      - company: Data Science Club (University of Waterloo)
+        position: VP of External Affairs
+        location: Waterloo, ON
+        start_date: Sept. 2020
+        end_date: Aug. 2021
+      - company: Data Science Club (University of Waterloo)
+        position: VP of Design
+        location: Waterloo, ON
+        start_date: May 2020
+        end_date: Aug. 2020
+      - company: Stats Club (University of Waterloo)
+        position: Event Coordinator
+        location: Waterloo, ON
+        start_date: Sept. 2019
+        end_date: Dec. 2019
+      - company: Stats Club (University of Waterloo)
+        position: Marketing Director
+        location: Waterloo, ON
+        start_date: May 2019
+        end_date: Aug. 2019
 
 
     Scholarships and Awards:
