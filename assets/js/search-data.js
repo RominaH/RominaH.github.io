@@ -416,16 +416,16 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-how-do-verbs-change-as-stories-unfold",
-          title: 'How do verbs change as stories unfold?',
-          description: "CDA / verbs",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
             },},{id: "projects-smartvey",
           title: 'SmartVey',
           description: "Discourse Processing Lab x rhetorical figure annotation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/SmartVey/";
+            },},{id: "projects-how-a-story-unfolds",
+          title: 'How a Story Unfolds',
+          description: "Using CDA to Investigate the Guardian’s Reporting of the Downing of Flight 752",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/cda-ps752/";
             },},{id: "projects-forx",
           title: 'ForX',
           description: "",
