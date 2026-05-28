@@ -12,4 +12,4 @@ I'll be presenting on multimodal social media constructions at ICCG in June!
 
 ---
 
-Information 
+I will be focusing on #glowup and #throwback templates on Instagram and TikTok. 
