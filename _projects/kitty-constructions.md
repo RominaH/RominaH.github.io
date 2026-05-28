@@ -39,16 +39,13 @@ The audio clips have both taken up lives of their own, since being shared in May
 
 The _cat_ audio often accompanies 3-4 videos/images, corresponding to the phrases, "I was born a cat," "I identify as a cat," "but according to my mum" [sometime merged with the previous clause], and "I just a baby." Both images and videos are possible, due to the short-content video and slideshow formats afforded by Instagram and TikTok.
 
-Consider the example below, with four video slots:
+Consider the examples (here)[https://www.instagram.com/reel/DUE7q5MiODJ/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==] and below, with four video slots:
 
-https://www.instagram.com/p/DUE7q5MiODJ/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==
-
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@lola_and_popps/video/7458022029715852577" data-video-id="7458022029715852577" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@lola_and_popps" href="https://www.tiktok.com/@lola_and_popps?refer=embed">@lola_and_popps</a> Obviously had to do a Poppy version 😹 🤭 <a title="cats" target="_blank" href="https://www.tiktok.com/tag/cats?refer=embed">#cats</a> <a title="orangecat" target="_blank" href="https://www.tiktok.com/tag/orangecat?refer=embed">#orangecat</a> <a title="cutecat" target="_blank" href="https://www.tiktok.com/tag/cutecat?refer=embed">#cutecat</a> <a title="catlife" target="_blank" href="https://www.tiktok.com/tag/catlife?refer=embed">#catlife</a> <a title="animalsoftiktok" target="_blank" href="https://www.tiktok.com/tag/animalsoftiktok?refer=embed">#animalsoftiktok</a> <a target="_blank" title="♬ I was born a cat - Rott_n_chugs" href="https://www.tiktok.com/music/I-was-born-a-cat-7094364921936366379?refer=embed">♬ I was born a cat - Rott_n_chugs</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
 Now, click (here)[https://www.tiktok.com/@hayleygreen29/photo/7334554393955536133?is_from_webapp=1&sender_device=pc], to see an example of a TiktTok slideshow with three slides.
 
-
-
-Consider the following videos, posted along a verse from the song "Life Is Easy" by DEMIYAA and Lil Rae:
+Now, consider the following videos, posted along a verse from the song "Life Is Easy" by DEMIYAA and Lil Rae:
 
 <blockquote> My face a ten, my body tea <br> Everything on me natural, I'm petite <br> And I got some pretty feet </blockquote>
 
@@ -58,11 +55,13 @@ Consider the following videos, posted along a verse from the song "Life Is Easy"
 
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@sunkittencats/video/7593019386688965918" data-video-id="7593019386688965918" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@sunkittencats" href="https://www.tiktok.com/@sunkittencats?refer=embed">@sunkittencats</a> this song was made for goobert. also i don’t know why scoobert is being a freak at the end <a title="fypppppppppppppppppppppppppppppp" target="_blank" href="https://www.tiktok.com/tag/fypppppppppppppppppppppppppppppp?refer=embed">#fypppppppppppppppppppppppppppppp</a> <a title="doobscoobgoob" target="_blank" href="https://www.tiktok.com/tag/doobscoobgoob?refer=embed">#doobscoobgoob</a> <a title="catsoftiktok" target="_blank" href="https://www.tiktok.com/tag/catsoftiktok?refer=embed">#catsoftiktok</a> <a title="fypシ゚viral" target="_blank" href="https://www.tiktok.com/tag/fyp%E3%82%B7%E3%82%9Aviral?refer=embed">#fypシ゚viral</a> <a target="_blank" title="♬ original sound - lolaᥫ᭡" href="https://www.tiktok.com/music/original-sound-7532659570859100959?refer=embed">♬ original sound - lolaᥫ᭡</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
+Note the use of four slots in the following video:
+
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@unicouniuni/video/7598185101867912456" data-video-id="7598185101867912456" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@unicouniuni" href="https://www.tiktok.com/@unicouniuni?refer=embed">@unicouniuni</a> The most photogenic boy :3 <a title="catsoftiktok" target="_blank" href="https://www.tiktok.com/tag/catsoftiktok?refer=embed">#catsoftiktok</a> <a title="fyp" target="_blank" href="https://www.tiktok.com/tag/fyp?refer=embed">#fyp</a> <a title="uni" target="_blank" href="https://www.tiktok.com/tag/uni?refer=embed">#uni</a> <a target="_blank" title="♬ original sound - ᴮᴷ" href="https://www.tiktok.com/music/original-sound-7531433955485109047?refer=embed">♬ original sound - ᴮᴷ</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
 As a treat, also watch this video of a pigeon posted to this trend, and think about how the perspective on "I'm petite" serves to contradict the verse:
 
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@balfour.i/video/7598319286398012727" data-video-id="7598319286398012727" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@balfour.i" href="https://www.tiktok.com/@balfour.i?refer=embed">@balfour.i</a> and he got some pretty feet 🧍 <a title="pigeon" target="_blank" href="https://www.tiktok.com/tag/pigeon?refer=embed">#pigeon</a> <a title="bird" target="_blank" href="https://www.tiktok.com/tag/bird?refer=embed">#bird</a> <a title="pet" target="_blank" href="https://www.tiktok.com/tag/pet?refer=embed">#pet</a> <a title="modenapigeon" target="_blank" href="https://www.tiktok.com/tag/modenapigeon?refer=embed">#modenapigeon</a> <a title="funny" target="_blank" href="https://www.tiktok.com/tag/funny?refer=embed">#funny</a> <a target="_blank" title="♬ original sound - balfour.i" href="https://www.tiktok.com/music/original-sound-7598319331210005303?refer=embed">♬ original sound - balfour.i</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
-
-Consider also some other videos, posted to a trending audio, “I was born a cat, I identify as a cat, but according to my mum, I just a baby.”
 
 
 **References**
