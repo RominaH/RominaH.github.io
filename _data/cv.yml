@@ -128,7 +128,7 @@ cv:
           - Created logical and relational data models and DDLs using Oracle SQL Developer
 
     Academic Extracurriculars:
-      - company: Linguistics Graduate Student Association (Simon Fraser University)
+      - company: Linguistics Graduate Student Association (SFU)
         position: Graduate Student Society Councillor
         location: Burnaby, BC
         start_date: May 2025
@@ -138,32 +138,32 @@ cv:
   #         - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
   #         - "Men of the year 2014 by Time magazine"
 
-      - company: Linguistics Graduate Student Colloquium Committee (Simon Fraser University)
-        position: Treasurer
+      - company: Linguistics Graduate Student Colloquium Committee (SFU)
+        position: Communications and Outreach
         location: Burnaby, BC
         start_date: Jan. 2025
         end_date: 
-      - company: Iranian Students Association at Waterloo (University of Waterloo)
+      - company: Iranian Students Association at Waterloo 
         position: Treasurer
         location: Waterloo, ON
         start_date: Jan. 2022
         end_date: Apr. 2022
-      - company: Data Science Club (University of Waterloo)
+      - company: Waterloo Data Science Club
         position: VP of External Affairs
         location: Waterloo, ON
         start_date: Sept. 2020
         end_date: Aug. 2021
-      - company: Data Science Club (University of Waterloo)
+      - company: Waterloo Data Science Club
         position: VP of Design
         location: Waterloo, ON
         start_date: May 2020
         end_date: Aug. 2020
-      - company: Stats Club (University of Waterloo)
+      - company: UW Stats Club (University of Waterloo)
         position: Event Coordinator
         location: Waterloo, ON
         start_date: Sept. 2019
         end_date: Dec. 2019
-      - company: Stats Club (University of Waterloo)
+      - company: UW Stats Club (University of Waterloo)
         position: Marketing Director
         location: Waterloo, ON
         start_date: May 2019
@@ -251,10 +251,10 @@ cv:
 #   #       icon: fa-solid fa-tag
 #   #       keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
-#   #   Certificates:
-#   #     - name: Machine Learning
-#   #       date: 2018-01-01
-#   #       issuer: Stanford University
+    Certificates:
+      - name: Certificate of Participation in one of the Official Language Programs
+        date: 2024
+        issuer: Laval University
 #   #       icon: fa-solid fa-location-dot
 
 #   #     - name: Quantum Computing
