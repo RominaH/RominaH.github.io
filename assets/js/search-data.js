@@ -428,7 +428,7 @@ ninja.data = [{
               window.location.href = "/projects/cda-ps752/";
             },},{id: "projects-forx",
           title: 'ForX',
-          description: "",
+          description: "construction grammar x social movement studies x digital rhetoric",
           section: "Projects",handler: () => {
               window.location.href = "/projects/for-x/";
             },},{id: "projects-cat-videos-as-multimodal-social-media-constructions",
