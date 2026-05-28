@@ -411,16 +411,16 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "projects-ab-before-ba",
-          title: 'AB Before BA',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
             },},{id: "projects-smartvey",
           title: 'SmartVey',
           description: "Discourse Processing Lab x rhetorical figure annotation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/SmartVey/";
+            },},{id: "projects-ab-before-ba",
+          title: 'AB Before BA',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ab-before-ba/";
             },},{id: "projects-how-a-story-unfolds",
           title: 'How a Story Unfolds',
           description: "Using CDA to Investigate the Guardian’s Reporting of the Downing of Flight 752",
