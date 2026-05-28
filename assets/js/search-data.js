@@ -448,7 +448,7 @@ ninja.data = [{
               window.location.href = "/projects/kitty-constructions/";
             },},{id: "projects-transition-constructions",
           title: 'Transition Constructions',
-          description: "",
+          description: "How do sound anchors determine the content and layout of social media artefacts?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/transition-constructions/";
             },},{id: "teachings-data-science-fundamentals",
