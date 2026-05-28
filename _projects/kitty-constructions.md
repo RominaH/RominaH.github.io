@@ -59,3 +59,22 @@ As a treat, also watch this video of a pigeon posted to this trend, and think ab
 Consider also some other videos, posted to a trending audio, “I was born a cat, I identify as a cat, but according to my mum, I just a baby.”
 
 
+**References**
+
+Dancygier, B., & Vandelanotte, L. (2017). Internet memes as multimodal constructions. Cognitive Linguistics, 28(3), 565–598. https://doi.org/10.1515/cog-2017-0074 
+
+Dancygier, B., & Vandelanotte, L. (2025a). Embodiment and simulated interaction in online stance expression. Frontiers in Psychology, 15. https://doi.org/10.3389/fpsyg.2024.1479825 
+
+Dancygier, B., & Vandelanotte, L. (2025b). The Language of Memes: Patterns of Meaning Across Image and Text (1st ed.). Cambridge University Press. https://doi.org/10.1017/9781108950855 
+
+Fischer, K., & Aarestrup, M. (2021). Relationships between construction grammar(s) and genre: Evidence from an analysis of Instagram posts. Journal of Pragmatics, 183, 87–104. https://doi.org/10.1016/j.pragma.2021.06.017 
+
+Jackson, B. (2022). Sound Anchors: A Cognitive and Multimodal Approach to Sound and Narrative Structure in Film. Projections, 16(3), 61–82. https://doi.org/10.3167/proj.2022.160303 
+
+Morrison, A. (2019). Social, Media, Life Writing: Online Lives at Scale, Up Close, and In Context. In Research Methodologies for Auto/biography Studies. Routledge. 
+
+Pourebrahim, S. (2024). Perspective on Persian Internet Memes: Exploring Multimodal Meaning Construction and Viewpoint Dynamics. Journal of Researches in Linguistics, 16(2), 107-120. https://doi.org/10.22108/jrl.2024.141862.1859 
+
+Vandelanotte, L. (2021). Creative constructs, constructions, and frames in Internet discourse. Constructions & Frames, 13(1), 160–191. https://doi.org/10.1075/cf.00050.van 
+
+[Zenner, E., & Geeraerts, D. (2018)](https://www.degruyterbrill.com/document/doi/10.1515/9783110586374008/html?lang=en&srsltid=AfmBOoqsxO_mNy23FSea0UccJPb6sub76qoE8ozyoVPfBXByA-cWSGb). One does not simply process memes: Image macros as 37 multimodal constructions. In E. Winter-Froemel & V. Thaler (Eds.), Cultures and Traditions of Wordplay and Wordplay Research (pp. 167–194). De Gruyter.  
