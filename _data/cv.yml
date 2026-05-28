@@ -1,281 +1,281 @@
 cv:
   name: Romina Hashemi
 #  label: Scientist
-#  email: rha127 at sfu.ca
+  email: rha127 at sfu.ca
   location: Burnaby, BC
-  # image: ""
-  # summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+#   # image: ""
+#   # summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
 
-  # social_networks:
-  #   - network: X
-  #     username: AlbertEinstein
-  #   - network: GitHub
-  #     username: example
-  #   - network: LinkedIn
-  #     username: example
+#   # social_networks:
+#   #   - network: X
+#   #     username: AlbertEinstein
+#   #   - network: GitHub
+#   #     username: example
+#   #   - network: LinkedIn
+#   #     username: example
 
-  # address:
-  #   street: 2712 Broadway St
-  #   city: San Francisco
-  #   region: California
-  #   postalCode: CA 94115
-  #   countryCode: US
+#   # address:
+#   #   street: 2712 Broadway St
+#   #   city: San Francisco
+#   #   region: California
+#   #   postalCode: CA 94115
+#   #   countryCode: US
 
-  sections:
-#     Education:
-#       - institution: Simon Fraser University
-#         location: Burnaby, BC
-#   #       url: https://www.uzh.ch/
-#         area: Linguistics
-#         studyType: MA
-#         start_date: 2024
-#         end_date: 
-#   # #       score: ""
-#   # #       courses: "Theory of Relativity"
-# #        Thesis: Your Slogan, My Choice #\: Taking a constructionist approach to slogan creation and co-optation
+#   sections:
+# #     Education:
+# #       - institution: Simon Fraser University
+# #         location: Burnaby, BC
+# #   #       url: https://www.uzh.ch/
+# #         area: Linguistics
+# #         studyType: MA
+# #         start_date: 2024
+# #         end_date: 
+# #   # #       score: ""
+# #   # #       courses: "Theory of Relativity"
+# # #        Thesis: Your Slogan, My Choice #\: Taking a constructionist approach to slogan creation and co-optation
 
-#       - institution: University of Waterloo
-#         location: Waterloo, ON
-#         area: Honours English Literature and Rhetoric — Intensive English Specialization (Distinction)
-#         studyType: BA
-#         start_date: 2018
-#         end_date: 2024
-#  #       Thesis: "For Woman, Life, Freedom: The BARAYEX Construction as a Discursive Practice in the 2022 Jina Amini Movement" 
-#   # #       highlights:
-#   # #         - Description 1.
-#   # #         - Description 2.
+# #       - institution: University of Waterloo
+# #         location: Waterloo, ON
+# #         area: Honours English Literature and Rhetoric — Intensive English Specialization (Distinction)
+# #         studyType: BA
+# #         start_date: 2018
+# #         end_date: 2024
+# #  #       Thesis: "For Woman, Life, Freedom: The BARAYEX Construction as a Discursive Practice in the 2022 Jina Amini Movement" 
+# #   # #       highlights:
+# #   # #         - Description 1.
+# #   # #         - Description 2.
 
-#       - institution: University of Waterloo
-#         location: Waterloo, ON
-#         area: Honours Statistics — Pure Mathematics Minor — Co-operative Program (Distinction)
-#         studyType: BMath
-#         start_date: 2018
-#         end_date: 2024
-#   # #       highlights:
-#   # #         - Description 1.
-#   # #         - Description 2.
+# #       - institution: University of Waterloo
+# #         location: Waterloo, ON
+# #         area: Honours Statistics — Pure Mathematics Minor — Co-operative Program (Distinction)
+# #         studyType: BMath
+# #         start_date: 2018
+# #         end_date: 2024
+# #   # #       highlights:
+# #   # #         - Description 1.
+# #   # #         - Description 2.
 
-#     Experience:
-#   #     # - company: Simon Fraser University
-#   #     #   position: Teaching Assistant
-#   #     #   location: Burnaby, BC
-#   #     #   start_date: Jan. 2025
-#   #     #   end_date: 
-#   #     #   highlights: 
-#   #     #     - LING 220—Introduction to Linguistics
-#   #     #     - LING 380—Practical Skills in Linguistics
-#   #     #     - LING 250—Computational Text Analysis 
-#   #     #     - LING 111—The Wonder of Words
-#   #     #     - LING 190—The Science of Speech
+# #     Experience:
+# #   #     # - company: Simon Fraser University
+# #   #     #   position: Teaching Assistant
+# #   #     #   location: Burnaby, BC
+# #   #     #   start_date: Jan. 2025
+# #   #     #   end_date: 
+# #   #     #   highlights: 
+# #   #     #     - LING 220—Introduction to Linguistics
+# #   #     #     - LING 380—Practical Skills in Linguistics
+# #   #     #     - LING 250—Computational Text Analysis 
+# #   #     #     - LING 111—The Wonder of Words
+# #   #     #     - LING 190—The Science of Speech
      
-#   #     # - company: Simon Fraser University
-#   #     #   position: Research Assistant
-#   #     #   location: Burnaby, BC
-#   #     #   start_date: Sept. 2025
-#   #     #   end_date: 
-#   #     #   highlights:           
+# #   #     # - company: Simon Fraser University
+# #   #     #   position: Research Assistant
+# #   #     #   location: Burnaby, BC
+# #   #     #   start_date: Sept. 2025
+# #   #     #   end_date: 
+# #   #     #   highlights:           
 
-#       - company: Munich Re
-#         position: Data Engineering Intern
-#         location: Toronto, ON
-#         start_date: Sept. 2022
-#         end_date: Dec. 2022
-#         highlights:
-#           - Built Docker images for 12 microservices and deployed them to Kubernetes using Manifest files and Argo CD
-#           - Created FastAPI endpoints to route messages to Azure Eventhub and tested them locally using Thunder Client 
+# #       - company: Munich Re
+# #         position: Data Engineering Intern
+# #         location: Toronto, ON
+# #         start_date: Sept. 2022
+# #         end_date: Dec. 2022
+# #         highlights:
+# #           - Built Docker images for 12 microservices and deployed them to Kubernetes using Manifest files and Argo CD
+# #           - Created FastAPI endpoints to route messages to Azure Eventhub and tested them locally using Thunder Client 
 
-#       - company: Rhetoricon Database Project (University of Waterloo)
-#         position: Research Assistant
+# #       - company: Rhetoricon Database Project (University of Waterloo)
+# #         position: Research Assistant
+# #         location: Waterloo, ON
+# #         start_date: May 2021
+# #         end_date: Dec. 2022
+# #         highlights:
+# #           - Performed a corpus study of the 'A B before B A' construction and collaborated on a research paper, placing the construction at the intersection of rhetoric and construction grammar (received the RhetCanada Undergraduate Student Paper Award in 2022)
+# #           - Researched rhetorical figures and their synonyms and collaborated on the documentation
+# #           - Identified the neurocognitive affinities associated with select rhetorical figures
+
+# #       - company: Miovision
+# #         position: Data Science Intern
+# #         location: Kitchener, ON
+# #         start_date: Jan. 2022
+# #         end_date: Apr. 2022
+# #         highlights:
+# #           - Identified traffic clusters using unsupervised machine learning (DBSCAN) and plotted them using kepler.gl
+# #           - Created virtual vehicle detectors using Google Earth and geopandas; plotted estimated detector durations; and identified arrivals on green and split failures for 12 intersections in 3 regions, colour-coding the trajectory plots accordingly, using connected car data
+# #           - Created views, looks, and dashboards in Looker to visualize user commitment and feature engagement for four Miovision platforms
+# #           - Identified and visualized discrepancies between data loaded into Snowflake through two different pipelines
+
+# #       - company: Northbridge
+# #         position: Data Science Intern
+# #         location: Toronto, ON
+# #         start_date: Jan. 2021
+# #         end_date: Apr. 2021
+# #         highlights:
+# #           - Performed exploratory data analysis and built pipelines to clean and preprocess data using custom transformers
+# #           - Developed an ML model that predicts the probability of an insurance policy submission being bound with an AUC of 0.82 using boosting algorithms and interpreted the model using SHAP values 
+# #           - Built a Keras Functional model that takes both text and non-text columns as input to classify policy submissions
+# #           - Reduced the RMSE of a gamma GLM that predicts the severity of an insurance claim by 63% by fine-tuning Google’s Universal Sentence Encoder with loss data using TensorFlow and fitting the GLM using policy description encodings that were created by the fine-tuned model and reduced from 512 to 50 dimensions using PCA                                               
+
+# #       - company: JANA Corporation
+# #         position: Data Analyst Intern
+# #         location: Aurora, ON
+# #         start_date: Jan. 2020
+# #         end_date: Aug. 2020
+# #         highlights:
+# #           - Implemented Python algorithms for data cleaning and data profiling, including a spell-checker that increases the accuracy of data produced by Google Cloud Vision by 14% and a function that removes EXEC statements from DDLs using regular expressions
+# #           - Extracted crossing and land use data for gas pipelines using SQL and visualized the data using Power BI and QGIS
+# #           - Implemented ETLs (Type 2 SCDs) in SQL
+# #           - Created logical and relational data models and DDLs using Oracle SQL Developer
+
+
+
+#      Volunteer:
+#   # #     - company: Linguistics Graduate Student Association (Simon Fraser University)
+#   # #       position: Graduate Student Society Councillor
+#   # #       location: Burnaby, BC
+#   # #       start_date: May 2025
+#   # #       end_date: 
+#   # # #       summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+#   # # #       highlights:
+#   # # #         - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
+#   # # #         - "Men of the year 2014 by Time magazine"
+
+#   # #     - company: Linguistics Graduate Student Colloquium Committee (Simon Fraser University)
+#   # #       position: Treasurer
+#   # #       location: Burnaby, BC
+#   # #       start_date: Jan. 2025
+#   # #       end_date: 
+#       - company: Iranian Students Association at Waterloo (University of Waterloo)
+#         position: Treasurer
 #         location: Waterloo, ON
-#         start_date: May 2021
-#         end_date: Dec. 2022
-#         highlights:
-#           - Performed a corpus study of the 'A B before B A' construction and collaborated on a research paper, placing the construction at the intersection of rhetoric and construction grammar (received the RhetCanada Undergraduate Student Paper Award in 2022)
-#           - Researched rhetorical figures and their synonyms and collaborated on the documentation
-#           - Identified the neurocognitive affinities associated with select rhetorical figures
-
-#       - company: Miovision
-#         position: Data Science Intern
-#         location: Kitchener, ON
 #         start_date: Jan. 2022
 #         end_date: Apr. 2022
-#         highlights:
-#           - Identified traffic clusters using unsupervised machine learning (DBSCAN) and plotted them using kepler.gl
-#           - Created virtual vehicle detectors using Google Earth and geopandas; plotted estimated detector durations; and identified arrivals on green and split failures for 12 intersections in 3 regions, colour-coding the trajectory plots accordingly, using connected car data
-#           - Created views, looks, and dashboards in Looker to visualize user commitment and feature engagement for four Miovision platforms
-#           - Identified and visualized discrepancies between data loaded into Snowflake through two different pipelines
-
-#       - company: Northbridge
-#         position: Data Science Intern
-#         location: Toronto, ON
-#         start_date: Jan. 2021
-#         end_date: Apr. 2021
-#         highlights:
-#           - Performed exploratory data analysis and built pipelines to clean and preprocess data using custom transformers
-#           - Developed an ML model that predicts the probability of an insurance policy submission being bound with an AUC of 0.82 using boosting algorithms and interpreted the model using SHAP values 
-#           - Built a Keras Functional model that takes both text and non-text columns as input to classify policy submissions
-#           - Reduced the RMSE of a gamma GLM that predicts the severity of an insurance claim by 63% by fine-tuning Google’s Universal Sentence Encoder with loss data using TensorFlow and fitting the GLM using policy description encodings that were created by the fine-tuned model and reduced from 512 to 50 dimensions using PCA                                               
-
-#       - company: JANA Corporation
-#         position: Data Analyst Intern
-#         location: Aurora, ON
-#         start_date: Jan. 2020
+#       - company: Data Science Club (University of Waterloo)
+#         position: VP of External Affairs
+#         location: Waterloo, ON
+#         start_date: Sept. 2020
+#         end_date: Aug. 2021
+#       - company: Data Science Club (University of Waterloo)
+#         position: VP of Design
+#         location: Waterloo, ON
+#         start_date: May 2020
 #         end_date: Aug. 2020
-#         highlights:
-#           - Implemented Python algorithms for data cleaning and data profiling, including a spell-checker that increases the accuracy of data produced by Google Cloud Vision by 14% and a function that removes EXEC statements from DDLs using regular expressions
-#           - Extracted crossing and land use data for gas pipelines using SQL and visualized the data using Power BI and QGIS
-#           - Implemented ETLs (Type 2 SCDs) in SQL
-#           - Created logical and relational data models and DDLs using Oracle SQL Developer
+#       - company: Stats Club (University of Waterloo)
+#         position: Event Coordinator
+#         location: Waterloo, ON
+#         start_date: Sept. 2019
+#         end_date: Dec. 2019
+#       - company: Stats Club (University of Waterloo)
+#         position: Marketing Director
+#         location: Waterloo, ON
+#         start_date: May 2019
+#         end_date: Aug. 2019
 
 
-
-     Volunteer:
-  # #     - company: Linguistics Graduate Student Association (Simon Fraser University)
-  # #       position: Graduate Student Society Councillor
-  # #       location: Burnaby, BC
-  # #       start_date: May 2025
-  # #       end_date: 
-  # # #       summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-  # # #       highlights:
-  # # #         - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-  # # #         - "Men of the year 2014 by Time magazine"
-
-  # #     - company: Linguistics Graduate Student Colloquium Committee (Simon Fraser University)
-  # #       position: Treasurer
-  # #       location: Burnaby, BC
-  # #       start_date: Jan. 2025
-  # #       end_date: 
-      - company: Iranian Students Association at Waterloo (University of Waterloo)
-        position: Treasurer
-        location: Waterloo, ON
-        start_date: Jan. 2022
-        end_date: Apr. 2022
-      - company: Data Science Club (University of Waterloo)
-        position: VP of External Affairs
-        location: Waterloo, ON
-        start_date: Sept. 2020
-        end_date: Aug. 2021
-      - company: Data Science Club (University of Waterloo)
-        position: VP of Design
-        location: Waterloo, ON
-        start_date: May 2020
-        end_date: Aug. 2020
-      - company: Stats Club (University of Waterloo)
-        position: Event Coordinator
-        location: Waterloo, ON
-        start_date: Sept. 2019
-        end_date: Dec. 2019
-      - company: Stats Club (University of Waterloo)
-        position: Marketing Director
-        location: Waterloo, ON
-        start_date: May 2019
-        end_date: Aug. 2019
-
-
-    Scholarships and Awards:
+#     Scholarships and Awards:
     
-      - title: Travel and Research Award
-        date: 2025
-        awarder: Simon Fraser University
-      - title: Canada Graduate Scholarship—Master's
-        date: 2025
-        awarder: Social Science and Humanities Research Council
-  #       url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-  #       summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-      - title: British Columbia Graduate Scholarship
-        date: 2024
-        awarder: Simon Fraser University
-      - title: Graduate Fellowship
-        date: 2024
-        awarder: Simon Fraser University
-      - title: Outstanding Course Performance Award (ENGL 306G—Critical Discourse Analysis)
-        date: 2024
-        awarder: University of Waterloo
-      - title: Bradley Family Upper-Year Scholarship for Women in Mathematics
-        date: 2023
-        awarder: University of Waterloo
-      - title: DiMarco Undergraduate Scholarship in Computational Rhetoric
-        date: 2023
-        awarder: University of Waterloo
-      - title: Best Undergraduate Student Paper Award
-        date: 2022
-        awarder: RhetCan (the Canadian Society for the Study of Rhetoric)
-      - title: Best Use of External Data at 2022 ASA Datafest
-        date: 2022
-        awarder: University of Waterloo
-      - title: Best Use of External Data at 2021 ASA Datafest
-        date: 2021
-        awarder: University of Waterloo
-      - title: President’s Scholarship
-        date: 2018
-        awarder: University of Waterloo
+#       - title: Travel and Research Award
+#         date: 2025
+#         awarder: Simon Fraser University
+#       - title: Canada Graduate Scholarship—Master's
+#         date: 2025
+#         awarder: Social Science and Humanities Research Council
+#   #       url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+#   #       summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+#       - title: British Columbia Graduate Scholarship
+#         date: 2024
+#         awarder: Simon Fraser University
+#       - title: Graduate Fellowship
+#         date: 2024
+#         awarder: Simon Fraser University
+#       - title: Outstanding Course Performance Award (ENGL 306G—Critical Discourse Analysis)
+#         date: 2024
+#         awarder: University of Waterloo
+#       - title: Bradley Family Upper-Year Scholarship for Women in Mathematics
+#         date: 2023
+#         awarder: University of Waterloo
+#       - title: DiMarco Undergraduate Scholarship in Computational Rhetoric
+#         date: 2023
+#         awarder: University of Waterloo
+#       - title: Best Undergraduate Student Paper Award
+#         date: 2022
+#         awarder: RhetCan (the Canadian Society for the Study of Rhetoric)
+#       - title: Best Use of External Data at 2022 ASA Datafest
+#         date: 2022
+#         awarder: University of Waterloo
+#       - title: Best Use of External Data at 2021 ASA Datafest
+#         date: 2021
+#         awarder: University of Waterloo
+#       - title: President’s Scholarship
+#         date: 2018
+#         awarder: University of Waterloo
 
 
-  #   Publications:
-  #     - title: Zur Elektrodynamik bewegter Körper
-  #       authors:
-  #         - Albert Einstein
-  #       publisher: Annalen der Physik
-  #       releaseDate: 1905-06-30
-  #       url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-  #       summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+#   #   Publications:
+#   #     - title: Zur Elektrodynamik bewegter Körper
+#   #       authors:
+#   #         - Albert Einstein
+#   #       publisher: Annalen der Physik
+#   #       releaseDate: 1905-06-30
+#   #       url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
+#   #       summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
 
-  #     - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-  #       authors:
-  #         - Albert Einstein
-  #       publisher: Annalen der Physik
-  #       releaseDate: 1905-03-18
-  #       url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-  #       summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+#   #     - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+#   #       authors:
+#   #         - Albert Einstein
+#   #       publisher: Annalen der Physik
+#   #       releaseDate: 1905-03-18
+#   #       url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
+#   #       summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
 
-  #     - title: Die Grundlage der allgemeinen Relativitätstheorie
-  #       authors:
-  #         - Albert Einstein
-  #       publisher: Annalen der Physik
-  #       releaseDate: 1916-03-20
-  #       url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-  #       summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+#   #     - title: Die Grundlage der allgemeinen Relativitätstheorie
+#   #       authors:
+#   #         - Albert Einstein
+#   #       publisher: Annalen der Physik
+#   #       releaseDate: 1916-03-20
+#   #       url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
+#   #       summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
 
-  #   Skills:
-  #     - name: Physics
-  #       level: Master
-  #       icon: fa-solid fa-hashtag
-  #       keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+#   #   Skills:
+#   #     - name: Physics
+#   #       level: Master
+#   #       icon: fa-solid fa-hashtag
+#   #       keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
-  #   Languages:
-  #     - name: English
-  #       summary: "Native speaker"
+#   #   Languages:
+#   #     - name: English
+#   #       summary: "Native speaker"
 
-  #     - name: Persian
-  #       summary: "Fluent"
+#   #     - name: Persian
+#   #       summary: "Fluent"
 
-  #   Interests:
-  #     - name: Physics
-  #       icon: fa-solid fa-tag
-  #       keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+#   #   Interests:
+#   #     - name: Physics
+#   #       icon: fa-solid fa-tag
+#   #       keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
-  #   Certificates:
-  #     - name: Machine Learning
-  #       date: 2018-01-01
-  #       issuer: Stanford University
-  #       icon: fa-solid fa-location-dot
+#   #   Certificates:
+#   #     - name: Machine Learning
+#   #       date: 2018-01-01
+#   #       issuer: Stanford University
+#   #       icon: fa-solid fa-location-dot
 
-  #     - name: Quantum Computing
-  #       date: 2018-01-01
-  #       issuer: Stanford University
-  #       icon: fa-solid fa-tag
+#   #     - name: Quantum Computing
+#   #       date: 2018-01-01
+#   #       issuer: Stanford University
+#   #       icon: fa-solid fa-tag
 
-  #     - name: Quantum Information
-  #       date: 2018-01-01
-  #       issuer: Stanford University
-  #       icon: fa-solid fa-envelope
+#   #     - name: Quantum Information
+#   #       date: 2018-01-01
+#   #       issuer: Stanford University
+#   #       icon: fa-solid fa-envelope
 
-  #   Projects:
-  #     - name: Quantum Computing
-  #       summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-  #       highlights:
-  #         - Quantum Teleportation
-  #         - Quantum Cryptography
-  #       start_date: 2018-01-01
-  #       end_date: 2018-01-01
+#   #   Projects:
+#   #     - name: Quantum Computing
+#   #       summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+#   #       highlights:
+#   #         - Quantum Teleportation
+#   #         - Quantum Cryptography
+#   #       start_date: 2018-01-01
+#   #       end_date: 2018-01-01
 
