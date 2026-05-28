@@ -413,7 +413,7 @@ ninja.data = [{
               window.location.href = "/news/announcement_2/";
             },},{id: "projects-forx",
           title: 'ForX',
-          description: "The ForX slogan.",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-so-yeah-particles",
