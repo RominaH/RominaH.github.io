@@ -37,12 +37,18 @@ The video was a means of sharing the audio clip, that had been requested by comm
 
 The audio clips have both taken up lives of their own, since being shared in May 2022. As of May 27, 2026, there are 74.2 TikToks posted using the _cat_ audio (and 368K TikToks posted using the _dog_ audio).
 
-Consider
+The _cat_ audio often accompanies 3-4 videos/images, corresponding to the phrases, "I was born a cat," "I identify as a cat," "but according to my mum" [sometime merged with the previous clause], and "I just a baby." Both images and videos are possible, due to the short-content video and slideshow formats afforded by Instagram and TikTok.
+
+Consider the example below, with four video slots:
+
+https://www.instagram.com/p/DUE7q5MiODJ/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==
+
+
+Now, click (here)[https://www.tiktok.com/@hayleygreen29/photo/7334554393955536133?is_from_webapp=1&sender_device=pc], to see an example of a TiktTok slideshow with three slides.
 
 
 
-
-Consider the following videos, posted along a verse from the song Life Is Easy by DEMIYAA & Lil Rae:
+Consider the following videos, posted along a verse from the song "Life Is Easy" by DEMIYAA and Lil Rae:
 
 <blockquote> My face a ten, my body tea <br> Everything on me natural, I'm petite <br> And I got some pretty feet </blockquote>
 
