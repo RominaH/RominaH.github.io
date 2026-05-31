@@ -1,7 +1,7 @@
 <!-- ---
 layout: book-shelf
 title: photography
-permalink: /books/
+permalink: /photography/
 nav: true
 nav_order: 5
 collection: books
