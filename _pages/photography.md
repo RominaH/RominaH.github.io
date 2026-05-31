@@ -4,7 +4,6 @@ title: photography
 permalink: /photography/
 nav: true
 nav_order: 5
-collection: books
 --- -->
 In my free time, I enjoy taking pictures of birds :)
 
