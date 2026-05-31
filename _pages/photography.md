@@ -9,4 +9,4 @@ nav_order: 6
 
 In my free time, I enjoy taking pictures of birds :)
 
-image: prof_pic.jpg
+<img src="prof_pic.jpg" alt="mushroom">
