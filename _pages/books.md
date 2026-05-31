@@ -7,4 +7,4 @@ collection: books
 --- -->
 In my free time, I enjoy taking pictures of birds :)
 
-img: prof_pic.jpg
+image: prof_pic.jpg
