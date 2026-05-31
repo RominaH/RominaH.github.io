@@ -393,12 +393,7 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-ll-be-giving-a-talk-on-slogans-and-schemes-at-the-rhetcanada-conference-at-sju-in-may",
+      },{id: "news-i-ll-be-giving-a-talk-on-slogans-and-schemes-at-the-rhetcanada-conference-at-sju-in-may",
           title: 'I’ll be giving a talk on slogans and schemes at the RhetCanada conference...',
           description: "",
           section: "News",},{id: "news-rhetoricon-symposium",
