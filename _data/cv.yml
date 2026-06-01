@@ -68,7 +68,7 @@ cv:
           - LING 111—The Wonder of Words
           - LING 190—The Science of Speech
      
-      - company: Simon Fraser University
+      - company: Discourse Processing Lab (Simon Fraser University)
         position: Research Assistant
         location: Burnaby, BC
         start_date: Sept. 2025
@@ -158,12 +158,12 @@ cv:
         location: Waterloo, ON
         start_date: May 2020
         end_date: Aug. 2020
-      - company: UW Stats Club (University of Waterloo)
+      - company: UW Stats Club 
         position: Event Coordinator
         location: Waterloo, ON
         start_date: Sept. 2019
         end_date: Dec. 2019
-      - company: UW Stats Club (University of Waterloo)
+      - company: UW Stats Club 
         position: Marketing Director
         location: Waterloo, ON
         start_date: May 2019
@@ -203,6 +203,8 @@ cv:
       - title: Best Use of External Data at 2021 ASA Datafest
         date: 2021
         awarder: University of Waterloo
+        url: https://uwaterloo.ca/math/2021-asa-datafest
+        summary: Team: Harleen Bhandal, Pranav Atul Ratra, Romina Hashemi, Sara Veerani, Victoria Blazevic
       - title: President’s Scholarship
         date: 2018
         awarder: University of Waterloo
