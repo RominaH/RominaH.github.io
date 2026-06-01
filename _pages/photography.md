@@ -20,7 +20,7 @@ And the very rare little blue heron whose venture into faraway lands inspired my
 <img src="/assets/img/heron2.jpg" alt="mushroom" style="width:362px;height:203px;">
 
 
-### Look at these majestic bald eagles soaring and feeding in Harrison Mills, BC.
+#### Look at these majestic bald eagles soaring and feeding in Harrison Mills, BC.
 
 <div style="position:relative; width:100%; height:0; padding-top:70%;">
   <img style="position:absolute; top:0; left:0; width:100%;" src="/assets/img/soaring-eagle.JPG">
@@ -43,7 +43,7 @@ And the very rare little blue heron whose venture into faraway lands inspired my
 
 ### Look at this troop of goslings near Science World in Vancouver, armed with heaviest of artillery (the tiniest of twigs). 
 
-<div style="position:relative; width:100%; height:0; padding-top:50%;">
+<div style="position:relative; width:100%; height:0; padding-top:70%;">
   <img style="position:absolute; top:0; left:0; width:100%;" src="/assets/img/gosling1.JPG">
 </div>
 
@@ -56,7 +56,7 @@ And the very rare little blue heron whose venture into faraway lands inspired my
 
 
 <figure>
-  <div style="position:relative; width:100%; height:0; padding-top:50%;">
+  <div style="position:relative; width:100%; height:0; padding-top:70%;">
   <img style="position:absolute; top:0; left:0; width:100%;" src="/assets/img/marmot.JPG">
 </div>
   <figcaption>Fig.1 - marmot duo.</figcaption>
@@ -64,21 +64,21 @@ And the very rare little blue heron whose venture into faraway lands inspired my
 
 
 
-<div style="position:relative; width:100%; height:0; padding-top:50%;">
+<div style="position:relative; width:100%; height:0; padding-top:70%;">
   <img style="position:absolute; top:0; left:0; width:100%;" src="/assets/img/marmot2.JPG">
 </div>
 
 
 ### And a deer with fuzzy antlers whimsically frolicking around Beacon Hill Park in Victoria, BC.
 
-<div style="position:relative; width:100%; height:0; padding-top:50%;">
+<div style="position:relative; width:100%; height:0; padding-top:70%;">
   <img style="position:absolute; top:0; left:0; width:100%;" src="/assets/img/deer.JPG">
 </div>
 
 
 And my favourite bird, an anna's hummingbird, collecting cattail fluff to build a nest in Stanley Park (Vancouver). 
 
-<div style="position:relative; width:100%; height:0; padding-top:50%;">
+<div style="position:relative; width:100%; height:0; padding-top:70%;">
   <img style="position:absolute; top:0; left:0; width:100%;" src="/assets/img/hummingbird-nest.JPG">
 </div>
 
