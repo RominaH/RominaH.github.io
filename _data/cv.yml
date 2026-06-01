@@ -32,7 +32,7 @@ cv:
         end_date: 
   # #       score: ""
   # #       courses: "Theory of Relativity"
-        Thesis: "Your Slogan, My Choice: Taking a constructionist approach to slogan creation and co-optation"
+        thesis: "Your Slogan, My Choice: Taking a constructionist approach to slogan creation and co-optation"
 
       - institution: University of Waterloo
         location: Waterloo, ON
@@ -40,7 +40,7 @@ cv:
         studyType: BA
         start_date: 2018
         end_date: 2024
-        Thesis: "For Woman, Life, Freedom: The BARAYEX Construction as a Discursive Practice in the 2022 Jina Amini Movement" 
+        thesis: "For Woman, Life, Freedom: The BARAYEX Construction as a Discursive Practice in the 2022 Jina Amini Movement" 
   #       highlights:
   #         - Description 1.
   #         - Description 2.
