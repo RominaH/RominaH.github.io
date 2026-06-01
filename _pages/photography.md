@@ -28,6 +28,6 @@ Look at these majestic eagles soaring and feeding in Harrison Mills, BC.
 This bright red male cardinal, showing off on a cold, wintery day in Cambridge, ON. 
 
 <div style="position:relative; width:100%; height:0; padding-top:50%;">
-  <img style="position:absolute; top:0; left:0; width:100%;" src="/assets/img/cardinal.jpg">
+  <img style="position:absolute; top:0; left:0; width:100%;" src="/assets/img/cardinal.JPG">
 </div>
 
