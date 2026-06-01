@@ -24,7 +24,10 @@ And the very rare little blue heron whose venture into faraway lands inspired my
 
 <div style="position:relative; width:100%; height:0; padding-top:50%;">
   <img style="position:absolute; top:0; left:0; width:100%;" src="/assets/img/soaring-eagle.JPG">
+  <p class="description_content">eagle soaring</p>
 </div>
+
+
 
 <div style="position:relative; width:100%; height:0; padding-top:50%;">
   <img style="position:absolute; top:0; left:0; width:100%;" src="/assets/img/feeding-eagle.JPG">
