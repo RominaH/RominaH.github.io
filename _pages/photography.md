@@ -20,7 +20,7 @@ And the very rare little blue heron whose venture into faraway lands inspired my
 <img src="/assets/img/heron2.jpg" alt="mushroom" style="width:362px;height:203px;">
 
 
-#### Look at these majestic bald eagles soaring and feeding in Harrison Mills, BC.
+Look at these majestic bald eagles soaring and feeding in Harrison Mills, BC.
 
 <div style="position:relative; width:100%; height:0; padding-top:70%;">
   <img style="position:absolute; top:0; left:0; width:100%;" src="/assets/img/soaring-eagle.JPG">
@@ -34,14 +34,14 @@ And the very rare little blue heron whose venture into faraway lands inspired my
 </div>
 
 
-### Here's bright red male cardinal, showing off on a cold, wintery day in Cambridge, ON. 
+Here's bright red male cardinal, showing off on a cold, wintery day in Cambridge, ON. 
 
 <div style="position:relative; width:100%; height:0; padding-top:70%;">
   <img style="position:absolute; top:0; left:0; width:100%;" src="/assets/img/cardinal.JPG">
 </div>
 
 
-### Look at this troop of goslings near Science World in Vancouver, armed with heaviest of artillery (the tiniest of twigs). 
+Look at this troop of goslings near Science World in Vancouver, armed with heaviest of artillery (the tiniest of twigs). 
 
 <div style="position:relative; width:100%; height:0; padding-top:70%;">
   <img style="position:absolute; top:0; left:0; width:100%;" src="/assets/img/gosling1.JPG">
@@ -52,12 +52,12 @@ And the very rare little blue heron whose venture into faraway lands inspired my
 </div>
 
 
-### Here's a marmot duo taken atop Whistler Mountain. 
+Here's a marmot duo taken atop Whistler Mountain. 
 
 
 <figure>
   <div style="position:relative; width:100%; height:0; padding-top:70%;">
-  <img style="position:absolute; top:0; left:0; width:100%;" src="/assets/img/marmot.JPG">
+  <img style="position:absolute; top:0; left:0; width:50%;" src="/assets/img/marmot.JPG">
 </div>
   <figcaption>Fig.1 - marmot duo.</figcaption>
 </figure>
@@ -69,7 +69,7 @@ And the very rare little blue heron whose venture into faraway lands inspired my
 </div>
 
 
-### And a deer with fuzzy antlers whimsically frolicking around Beacon Hill Park in Victoria, BC.
+And a deer with fuzzy antlers whimsically frolicking around Beacon Hill Park in Victoria, BC.
 
 <div style="position:relative; width:100%; height:0; padding-top:70%;">
   <img style="position:absolute; top:0; left:0; width:100%;" src="/assets/img/deer.JPG">
