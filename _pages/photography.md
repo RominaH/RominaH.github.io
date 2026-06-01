@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: photography
 permalink: /photography/
 nav: true
@@ -11,14 +11,21 @@ In my free time, I enjoy taking pictures of birds and other cool things in natur
 
 Here's a shot of a perfect amanita taken on a lovely autumn day at Como Lake Park in Coquitlam, BC. 
 
-<img src="/assets/img/prof_pic.jpg" alt="mushroom" style="width:362px;height:203px;">
+
+<div style="position:relative; width:100%; height:0; padding-top:70%;">
+  <img style="position:absolute; top:0; left:0; width:100%;" src="/assets/img/prof_pic.jpg" alt="mushroom">
+</div>
+
 
 And the very rare little blue heron whose venture into faraway lands inspired my trip:
 
-<img src="/assets/img/heron1.jpg" alt="mushroom" style="width:362px;height:203px;">
+<div style="position:relative; width:100%; height:0; padding-top:70%;">
+  <img style="position:absolute; top:0; left:0; width:100%;" src="/assets/img/heron1.jpg">
+</div>
 
-<img src="/assets/img/heron2.jpg" alt="mushroom" style="width:362px;height:203px;">
-
+<div style="position:relative; width:100%; height:0; padding-top:70%;">
+  <img style="position:absolute; top:0; left:0; width:100%;" src="/assets/img/heron2.jpg">
+</div>
 
 Look at these majestic bald eagles soaring and feeding in Harrison Mills, BC.
 
@@ -55,13 +62,9 @@ Look at this troop of goslings near Science World in Vancouver, armed with heavi
 Here's a marmot duo taken atop Whistler Mountain. 
 
 
-<figure>
-  <div style="position:relative; width:100%; height:0; padding-top:70%;">
-  <img style="position:absolute; top:0; left:0; width:50%;" src="/assets/img/marmot.JPG">
+<div style="position:relative; width:100%; height:0; padding-top:90%;">
+  <img style="position:absolute; top:0; left:0; width:60%;" src="/assets/img/marmot.JPG">
 </div>
-  <figcaption>Fig.1 - marmot duo.</figcaption>
-</figure>
-
 
 
 <div style="position:relative; width:100%; height:0; padding-top:70%;">
