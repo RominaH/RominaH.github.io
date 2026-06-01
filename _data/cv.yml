@@ -177,8 +177,7 @@ cv:
       - title: Canada Graduate Scholarship—Master's
         date: 2025
         awarder: Social Science and Humanities Research Council
-  #       url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-  #       summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+        url: "https://www.sfu.ca/linguistics/events/2025/SSHRC-scholarship.html"
       - title: British Columbia Graduate Scholarship
         date: 2024
         awarder: Simon Fraser University
@@ -188,6 +187,7 @@ cv:
       - title: Outstanding Course Performance Award (ENGL 306G—Critical Discourse Analysis)
         date: 2024
         awarder: University of Waterloo
+        url: "https://uwaterloo.ca/english/awards/previous-outstanding-course-performance-awards"
       - title: Bradley Family Upper-Year Scholarship for Women in Mathematics
         date: 2023
         awarder: University of Waterloo
@@ -197,14 +197,16 @@ cv:
       - title: Best Undergraduate Student Paper Award (with Queenie Chen)
         date: 2022
         awarder: RhetCan (the Canadian Society for the Study of Rhetoric)
+        url: "https://rhetcanada.org/rhetcanada-student-paper-award-winners-2022/"
       - title: Best Use of External Data at 2022 ASA Datafest
         date: 2022
         awarder: University of Waterloo
+        summary: "Team: Harleen Bhandal, Taarik Boodoo, Ketyusha Das, Romina Hashemi, and Sara Veerani"
       - title: Best Use of External Data at 2021 ASA Datafest
         date: 2021
         awarder: University of Waterloo
         url: "https://uwaterloo.ca/math/2021-asa-datafest"
-        summary: "Team: Harleen Bhandal, Pranav Atul Ratra, Romina Hashemi, Sara Veerani, and Victoria Blazevic"
+        summary: "Team: Harleen Bhandal, Victoria Blazevic, Romina Hashemi, Pranav Atul Ratra, and Sara Veerani"
       - title: President’s Scholarship
         date: 2018
         awarder: University of Waterloo
