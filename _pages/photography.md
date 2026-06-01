@@ -1,5 +1,5 @@
 ---
-layout: book-shelf
+layout: none
 title: photography
 permalink: /photography/
 nav: true
