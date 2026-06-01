@@ -7,13 +7,13 @@ nav: true
 nav_order: 3
 ---
 
-🎤 **My Slogan, My Choice: Rhetorical figures and slogan constructions.** 2026. _RhetCanada._ Waterloo, ON. May 30.
+🎤 **My Slogan, My Choice: Rhetorical figures and slogan constructions.** 2026. _RhetCanada._ Waterloo, ON. 30 May.
 
-🎤 **How to pay the cat tax: a constructionist approach to multimodal social media constructions.** 2026. _Rhetoricon Symposium._ Waterloo, ON. May 28.
+🎤 **How to pay the cat tax: a constructionist approach to multimodal social media constructions.** 2026. _Rhetoricon Symposium._ Waterloo, ON. 28 May.
 
-🎤 **Metaphors and evaluation: The role of figurative language in negative opinion.** 2025. _Canadian Linguistics Association._ Montreal, QC. With Amber Rynearson, Vanja Vekic Chen, and Maite Taboada. June 5.
+🎤 **Metaphors and evaluation: The role of figurative language in negative opinion.** 2025. _Canadian Linguistics Association._ Montreal, QC. With Amber Rynearson, Vanja Vekic Chen, and Maite Taboada. 5 June.
 
-🎤	**Integrating Social Movements and Construction Grammar: The BARAYEX Construction as a Discursive Practice in the 2022 Jina Amini Movement.** 2025. _Canadian Linguistics Association._ Montreal, QC. June 4.
+🎤	**Integrating Social Movements and Construction Grammar: The BARAYEX Construction as a Discursive Practice in the 2022 Jina Amini Movement.** 2025. _Canadian Linguistics Association._ Montreal, QC. 4 June.
 
 🎤 **Crosslinguistic Productivity and Intracommunity Dialogue.** 2025. _LinguisticsNew._ Vancouver, BC. 16 May.
 
