@@ -1,13 +1,12 @@
 ---
 layout: page
 title: photography
+description: "In my free time, I enjoy taking pictures of birds and other cool things in nature :)"
 permalink: /photography/
 nav: true
 nav_order: 6
 --- 
 
-
-In my free time, I enjoy taking pictures of birds and other cool things in nature :)
 
 Here's a shot of a perfect amanita taken on a lovely autumn day at Como Lake Park in Coquitlam, BC. 
 
