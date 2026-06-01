@@ -22,12 +22,50 @@ And the very rare little blue heron whose venture into faraway lands inspired my
 
 Look at these majestic eagles soaring and feeding in Harrison Mills, BC.
 
+<div style="position:relative; width:100%; height:0; padding-top:50%;">
+  <img style="position:absolute; top:0; left:0; width:100%;" src="/assets/img/soaring-eagle.JPG">
+</div>
 
+<div style="position:relative; width:100%; height:0; padding-top:50%;">
+  <img style="position:absolute; top:0; left:0; width:100%;" src="/assets/img/feeding-eagle.JPG">
+</div>
 
-
-This bright red male cardinal, showing off on a cold, wintery day in Cambridge, ON. 
+Here's bright red male cardinal, showing off on a cold, wintery day in Cambridge, ON. 
 
 <div style="position:relative; width:100%; height:0; padding-top:50%;">
   <img style="position:absolute; top:0; left:0; width:100%;" src="/assets/img/cardinal.JPG">
 </div>
+
+Look at this troop of goslings near Science World in Vancouver, armed with heaviest of artillery (the tiniest of twigs). 
+
+<div style="position:relative; width:100%; height:0; padding-top:50%;">
+  <img style="position:absolute; top:0; left:0; width:100%;" src="/assets/img/gosling1.JPG">
+</div>
+
+<div style="position:relative; width:100%; height:0; padding-top:50%;">
+  <img style="position:absolute; top:0; left:0; width:100%;" src="/assets/img/gosling2.JPG">
+</div>
+
+Here's a marmot duo taken atop Whistler Mountain. 
+<div style="position:relative; width:100%; height:0; padding-top:50%;">
+  <img style="position:absolute; top:0; left:0; width:100%;" src="/assets/img/marmot.JPG">
+</div>
+
+<div style="position:relative; width:100%; height:0; padding-top:50%;">
+  <img style="position:absolute; top:0; left:0; width:100%;" src="/assets/img/marmot2.JPG">
+</div>
+
+And a deer whimsically frolicking around Beacon Hill Park in Victoria, BC.
+
+<div style="position:relative; width:100%; height:0; padding-top:50%;">
+  <img style="position:absolute; top:0; left:0; width:100%;" src="/assets/img/deer.JPG">
+</div>
+
+And my favourite bird, a hummingbird, collecting cattail fluff to build a nest in Stanley Park (Vancouver). 
+
+<div style="position:relative; width:100%; height:0; padding-top:50%;">
+  <img style="position:absolute; top:0; left:0; width:100%;" src="/assets/img/hummingbird-nest.JPG">
+</div>
+
+
 
