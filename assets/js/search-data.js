@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-photography",
           title: "photography",
-          description: "",
+          description: "In my free time, I enjoy taking pictures of birds and other cool things in nature :)",
           section: "Navigation",
           handler: () => {
             window.location.href = "/photography/";
