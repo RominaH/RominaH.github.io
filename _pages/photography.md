@@ -20,27 +20,23 @@ And the very rare little blue heron whose venture into faraway lands inspired my
 <img src="/assets/img/heron2.jpg" alt="mushroom" style="width:362px;height:203px;">
 
 
-<img style="position:absolute; top:0; left:0; width:80%;" src="/assets/img/feeding-eagle.JPG">
-
-
-
 ### Look at these majestic bald eagles soaring and feeding in Harrison Mills, BC.
 
-<div style="position:relative; width:100%; height:0; padding-top:100%;">
+<div style="position:relative; width:100%; height:0; padding-top:70%;">
   <img style="position:absolute; top:0; left:0; width:100%;" src="/assets/img/soaring-eagle.JPG">
   <p class="description_content">eagle soaring</p>
 </div>
 
 
 
-<div style="position:relative; width:100%; height:0; padding-top:50%;">
+<div style="position:relative; width:100%; height:0; padding-top:70%;">
   <img style="position:absolute; top:0; left:0; width:100%;" src="/assets/img/feeding-eagle.JPG">
 </div>
 
 
 ### Here's bright red male cardinal, showing off on a cold, wintery day in Cambridge, ON. 
 
-<div style="position:relative; width:100%; height:0; padding-top:50%;">
+<div style="position:relative; width:100%; height:0; padding-top:70%;">
   <img style="position:absolute; top:0; left:0; width:100%;" src="/assets/img/cardinal.JPG">
 </div>
 
