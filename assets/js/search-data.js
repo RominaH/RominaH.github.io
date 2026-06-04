@@ -457,7 +457,7 @@ ninja.data = [{
               window.location.href = "/projects/so-yeah/";
             },},{id: "projects-glow-up-and-throwback-constructions",
           title: 'glow up and throwback constructions',
-          description: "How do sound anchors determine the content and layout of social media artefacts?",
+          description: "What role do trending audio clips play in defining the form and meaning of short-form social media artefacts?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/transition-constructions/";
             },},{id: "teachings-data-science-fundamentals",
