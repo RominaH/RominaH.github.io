@@ -68,7 +68,7 @@ cv:
           - LING 111—The Wonder of Words
           - LING 190—The Science of Speech
      
-      - company: Discourse Processing Lab (Simon Fraser University)
+      - company: Discourse Processing Lab at Simon Fraser University (Supervised by Dr. Maite Taboada)
         position: Research Assistant
         location: Burnaby, BC
         start_date: Sept. 2025
@@ -84,7 +84,7 @@ cv:
           - Built Docker images for 12 microservices and deployed them to Kubernetes using Manifest files and Argo CD
           - Created FastAPI endpoints to route messages to Azure Eventhub and tested them locally using Thunder Client 
 
-      - company: Rhetoricon Database Project (University of Waterloo)
+      - company: Rhetoricon Database Project at the University of Waterloo (Supervised by Dr. Randy Harris)
         position: Research Assistant
         location: Waterloo, ON
         start_date: May 2021
