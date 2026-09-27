@@ -29,7 +29,7 @@ cv:
         area: Linguistics
         studyType: MA
         start_date: 2024
-        end_date: 
+        end_date:
   # #       score: ""
   # #       courses: "Theory of Relativity"
         highlights: "Thesis: Your Slogan, My Choice: Taking a constructionist approach to slogan creation and co-optation. Supervisor: Dr. Maite Taboada." 
@@ -60,7 +60,7 @@ cv:
         position: Teaching Assistant
         location: Burnaby, BC
         start_date: Jan. 2025
-        end_date: 
+        end_date: Aug. 2026
         highlights: 
           - LING 220—Introduction to Linguistics
           - LING 380—Practical Skills in Linguistics
@@ -132,7 +132,7 @@ cv:
         position: Graduate Student Society Councillor
         location: Burnaby, BC
         start_date: May 2025
-        end_date: 
+        end_date: Aug. 2026
   #       summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
   #       highlights:
   #         - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
@@ -142,7 +142,7 @@ cv:
         position: Communications and Outreach
         location: Burnaby, BC
         start_date: Jan. 2025
-        end_date: 
+        end_date: Aug. 2026
       - company: Iranian Students Association at Waterloo 
         position: Treasurer
         location: Waterloo, ON
@@ -171,43 +171,52 @@ cv:
 
 
     Scholarships and Awards:
-      - title: Travel and Research Award
-        date: 2025
+      - title: MITACS Globalink Research Award ($6,000)
+        date: 2026
         awarder: Simon Fraser University
-      - title: Canada Graduate Scholarship—Master's
+      - title: Graduate Student Society Professional Development Grant ($500)
+        date: 2026
+        awarder: Simon Fraser University
+      - title: Travel and Research Award ($518)
+        date: 2026
+        awarder: Simon Fraser University
+      - title: Canada Graduate Scholarship—Master's ($27,000)
         date: 2025
         awarder: Social Science and Humanities Research Council
         url: "https://www.sfu.ca/linguistics/events/2025/SSHRC-scholarship.html"
-      - title: British Columbia Graduate Scholarship
-        date: 2024
+      - title: Travel and Research Award ($600)
+        date: 2025
         awarder: Simon Fraser University
-      - title: Graduate Fellowship
+      - title: British Columbia Graduate Scholarship ($17,500)
+        date: 2024
+        awarder: Simon Fraser University 
+      - title: Graduate Fellowship ($7,000)
         date: 2024
         awarder: Simon Fraser University
       - title: Outstanding Course Performance Award (ENGL 306G—Critical Discourse Analysis)
         date: 2024
         awarder: University of Waterloo
         url: "https://uwaterloo.ca/english/awards/previous-outstanding-course-performance-awards"
-      - title: Bradley Family Upper-Year Scholarship for Women in Mathematics
+      - title: Bradley Family Upper-Year Scholarship for Women in Mathematics ($2,000)
         date: 2023
         awarder: University of Waterloo
-      - title: DiMarco Undergraduate Scholarship in Computational Rhetoric
+      - title: DiMarco Undergraduate Scholarship in Computational Rhetoric ($1,500)
         date: 2023
         awarder: University of Waterloo
-      - title: Best Undergraduate Student Paper Award (with Queenie Chen)
+      - title: Best Undergraduate Student Paper Award (with Queenie Chen) ($150)
         date: 2022
         awarder: RhetCan (the Canadian Society for the Study of Rhetoric)
         url: "https://rhetcanada.org/rhetcanada-student-paper-award-winners-2022/"
-      - title: Best Use of External Data at 2022 ASA Datafest
+      - title: Best Use of External Data at 2022 ASA Datafest ($500)
         date: 2022
         awarder: University of Waterloo
         summary: "Team: Harleen Bhandal, Taarik Boodoo, Ketyusha Das, Romina Hashemi, and Sara Veerani"
-      - title: Best Use of External Data at 2021 ASA Datafest
+      - title: Best Use of External Data at 2021 ASA Datafest ($500)
         date: 2021
         awarder: University of Waterloo
         url: "https://uwaterloo.ca/math/2021-asa-datafest"
         summary: "Team: Harleen Bhandal, Victoria Blazevic, Romina Hashemi, Pranav Atul Ratra, and Sara Veerani"
-      - title: President’s Scholarship
+      - title: President’s Scholarship ($2,000)
         date: 2018
         awarder: University of Waterloo
 
