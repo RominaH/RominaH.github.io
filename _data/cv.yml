@@ -62,11 +62,11 @@ cv:
         start_date: Jan. 2025
         end_date: Aug. 2026
         highlights: 
-          - LING 220—Introduction to Linguistics: Led tutorials for two classes of 16 students each and graded homework
-          - LING 380—Practical Skills in Linguistics: Graded weekly labs, held office hours, and hosted drop-in troubleshooting hours for Python, Jupyter, and GitHub 
-          - LING 250—Computational Text Analysis: Graded weekly assignments, held office hours, and provided troubleshooting for Python and Command Line 
-          - LING 111—The Wonder of Words: Graded weekly assignments, designed quizzes, proctored exams, held office hours, and delivered a guest lecture
-          - LING 190—The Science of Speech: Graded weekly assignments, developed quizzes and exams, hosted office hours, and designed supplementary lecture material
+          - LING 220—Introduction to Linguistics\: Led tutorials for two classes of 16 students each and graded homework
+          - LING 380—Practical Skills in Linguistics\: Graded weekly labs, held office hours, and hosted drop-in troubleshooting hours for Python, Jupyter, and GitHub 
+          - LING 250—Computational Text Analysis\: Graded weekly assignments, held office hours, and provided troubleshooting for Python and Command Line 
+          - LING 111—The Wonder of Words ⇨ Graded weekly assignments, designed quizzes, proctored exams, held office hours, and delivered a guest lecture
+          - LING 190—The Science of Speech -> Graded weekly assignments, developed quizzes and exams, hosted office hours, and designed supplementary lecture material
      
       - company: Discourse Processing Lab at Simon Fraser University (Supervised by Dr. Maite Taboada)
         position: Research Assistant
@@ -133,7 +133,7 @@ cv:
           - Implemented ETLs (Type 2 SCDs) in SQL
           - Created logical and relational data models and DDLs using Oracle SQL Developer
 
-    Academic Extracurriculars:
+    Service and Community Engagement:
       - company: Linguistics Graduate Student Association (SFU)
         position: Graduate Student Society Councillor
         location: Burnaby, BC
@@ -145,7 +145,7 @@ cv:
   #         - "Men of the year 2014 by Time magazine"
 
       - company: Linguistics Graduate Student Colloquium Committee (SFU)
-        position: Communications and Outreach
+        position: Colloquium Committee Representative
         location: Burnaby, BC
         start_date: Jan. 2025
         end_date: Aug. 2026
