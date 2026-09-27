@@ -9,7 +9,7 @@ nav_order: 3
 
 🎤 **Metaphor identification is source domain identification.** 2026. _9th International Conference on Figurative Thought and Language._ With Maite Taboada (senior author) and Amber Rynearson. Valencia, Spain. 11 Sept. 
 
-🎤 **fuck this city, I’m moving to Saskatchewan: trending audio clips and multimodal social media constructions.** 2026. _14th International Conference on Construction Grammar._ 5 June. 
+🎤 **fuck this city, I’m moving to Saskatchewan: trending audio clips and multimodal social media constructions.** 2026. _14th International Conference on Construction Grammar._ Princeton, NJ. 5 June. 
 
 🎤 **My Slogan, My Choice: Rhetorical figures and slogan constructions.** 2026. _RhetCanada._ Waterloo, ON. 30 May.
 
