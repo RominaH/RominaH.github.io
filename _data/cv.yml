@@ -54,12 +54,20 @@ cv:
   #         - Description 2.
 
     Research Experience:
-     
+
+      - company: Department of Linguistics and Communication (Supervised by Dr. Matteo Fuoli)
+        position: Visiting Postgraduate Researcher
+        location: Birmingham, UK
+        start_date: Sept. 2026
+        end_date: 
+        highlights:
+          - Comparing human and LLM-generated fake news
+          
       - company: Discourse Processing Lab at Simon Fraser University (Supervised by Dr. Maite Taboada)
         position: Research Assistant
         location: Burnaby, BC
         start_date: Sept. 2024
-        end_date: 
+        end_date: Aug. 2026
         highlights:
           - Conducted data analysis and visualization for the top professions cited in Canadian media for men and women, and wrote a report based on the findings 
           - Annotated online comments for three types of metaphor, and contributed to creating an annotation manual for metaphor identification 
@@ -67,6 +75,12 @@ cv:
           - Performed a corpus analysis of metaphoric expressions, and contributed to a paper on the topic 
           - Developed methodology and conducted data analysis and statistical testing for a project on the overlap between metaphor and evaluative language, and contributed to a paper on the topic
           - Contributed to literature review on metaphor identification procedures, conceptual metaphor theory, and rhetorical figures, and led discussions on selected readings
+
+      - company: NetLab at the University of Waterloo (Supervised by Dr. John McLevey)
+        position: Research Assistant
+        location: Waterloo, ON
+        start_date: Sept. 2023
+        end_date: Dec. 2023
 
       - company: Rhetoricon Database Project at the University of Waterloo (Supervised by Dr. Randy Harris)
         position: Research Assistant
