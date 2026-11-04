@@ -159,9 +159,18 @@ layout: default
                 {% assign entries = section_entries %}
                 {% include cv/references.liquid %}
 
-              {% elsif section_title == 'Work Experience' %}
+              {% elsif section_title == 'Research Experience' %}
                 {% assign entries = section_entries %}
                 {% include cv/experience.liquid %}
+
+              {% elsif section_title == 'TA Experience' %}
+                {% assign entries = section_entries %}
+                {% include cv/experience.liquid %}
+
+              {% elsif section_title == 'Professional Experience' %}
+                {% assign entries = section_entries %}
+                {% include cv/experience.liquid %}
+
               {% elsif section_title == 'Service and Community Engagement' %}
                 {% assign entries = section_entries %}
                 {% include cv/experience.liquid %}
